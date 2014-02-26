@@ -10,7 +10,7 @@
 	
 									<!-- ****************** 0123456789 ****************** -->
 									
-	<item component="ComponentInfo{your.icons.name.here/gridview.Main}" drawable="icon" />
+	<item component="ComponentInfo{co.w44.h4rsh/gridview.Main}" drawable="icon" />
 
   	<!-- 14px -->
 	<item component="ComponentInfo{com.drummerGames.px14/com.ansca.corona.CoronaActivity}" drawable="fourteen" />

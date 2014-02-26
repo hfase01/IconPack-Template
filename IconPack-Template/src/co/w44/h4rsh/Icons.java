@@ -1,4 +1,4 @@
-package your.icons.name.here;
+package co.w44.h4rsh;
 
 
 import android.content.Context;
@@ -16,6 +16,7 @@ import android.widget.BaseAdapter;
 import android.widget.GridView;
 import android.widget.ImageView;
 
+import co.w44.h4rsh.R;
 import com.actionbarsherlock.app.SherlockActivity;
 
 import java.util.ArrayList;

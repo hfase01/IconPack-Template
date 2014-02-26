@@ -1,4 +1,4 @@
-package your.icons.name.here;
+package co.w44.h4rsh;
 
 import android.graphics.Typeface;
 import android.os.Bundle;
@@ -13,6 +13,7 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.ViewFlipper;
 
+import co.w44.h4rsh.R;
 import com.actionbarsherlock.app.SherlockActivity;
 
 public class AboutThemeActivity extends SherlockActivity {

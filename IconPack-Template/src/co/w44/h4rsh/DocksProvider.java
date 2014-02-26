@@ -1,4 +1,4 @@
-package your.icons.name.here;
+package co.w44.h4rsh;
 
 import android.content.ContentProvider;
 import android.content.ContentValues;

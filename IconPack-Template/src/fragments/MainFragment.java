@@ -7,9 +7,9 @@ import helper.ScrollGridView;
 import java.util.ArrayList;
 import java.util.List;
 
-import your.icons.name.here.AboutThemeActivity;
-import your.icons.name.here.R;
-import your.icons.name.here.Wallpaper;
+import co.w44.h4rsh.AboutThemeActivity;
+import co.w44.h4rsh.R;
+import co.w44.h4rsh.Wallpaper;
 import adapters.MainAdapter;
 import adapters.MainAdapter.AdapterItem;
 import android.content.ComponentName;

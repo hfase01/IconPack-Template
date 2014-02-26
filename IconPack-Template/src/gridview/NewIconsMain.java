@@ -16,7 +16,7 @@
 
 package gridview;
 
-import your.icons.name.here.R;
+import co.w44.h4rsh.R;
 import android.os.Bundle;
 
 import com.actionbarsherlock.app.SherlockFragmentActivity;

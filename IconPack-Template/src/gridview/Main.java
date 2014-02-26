@@ -23,8 +23,8 @@ package gridview;
 
 import fragments.MainFragment;
 import helper.GlassActionBarHelper;
-import your.icons.name.here.AboutDev;
-import your.icons.name.here.R;
+import co.w44.h4rsh.AboutDev;
+import co.w44.h4rsh.R;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.DialogInterface;
@@ -205,7 +205,7 @@ public class Main extends SherlockFragmentActivity {
                 break;
             case R.id.rateButton:
             	Intent rate = new Intent(Intent.ACTION_VIEW).setData(Uri.parse
-            			("market://details?id=your.icons.name.here"));
+            			("market://details?id=co.w44.h4rsh"));
             	startActivity(rate);
                 break;
             case R.id.emailButton:

@@ -1,4 +1,4 @@
-package your.icons.name.here;
+package co.w44.h4rsh;
 
 /**
  ** This is essentially a gallery view with custom animations
@@ -22,6 +22,7 @@ import android.widget.BaseAdapter;
 import android.widget.Gallery;
 import android.widget.ImageView;
 
+import co.w44.h4rsh.R;
 import com.actionbarsherlock.app.SherlockActivity;
 
 import java.io.IOException;

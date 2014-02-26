@@ -3,7 +3,7 @@ package fragments;
 import java.util.ArrayList;
 import java.util.List;
 
-import your.icons.name.here.R;
+import co.w44.h4rsh.R;
 import adapters.LauncherAdapter;
 import adapters.LauncherAdapter.LauncherItem;
 import android.app.Activity;
@@ -101,7 +101,7 @@ public class LauncherFragment extends SherlockFragment {
 					nova.setPackage(NOVA_PACKAGE);
 					nova.putExtra(EXTRA_ICON_THEME_TYPE, "GO");
 					nova.putExtra(EXTRA_ICON_THEME_PACKAGE,
-							"your.icons.name.here");
+							"co.w44.h4rsh");
 					try {
 						startActivity(nova);
 					} catch (ActivityNotFoundException e) {
@@ -126,7 +126,7 @@ public class LauncherFragment extends SherlockFragment {
 				case 3:
 					Intent adw = new Intent("org.adw.launcher.SET_THEME");
 					adw.putExtra("org.adw.launcher.theme.NAME",
-							"your.icons.name.here");
+							"co.w44.h4rsh");
 					try {
 						startActivity(Intent.createChooser(adw,
 								"activating theme..."));
@@ -149,7 +149,7 @@ public class LauncherFragment extends SherlockFragment {
 							"com.chrislacy.actionlauncher.pro");
 					if (al != null) {
 
-						String packageName = "your.icons.name.here";
+						String packageName = "co.w44.h4rsh";
 						al.putExtra("apply_icon_pack", packageName);
 						startActivity(al);
 					} else {

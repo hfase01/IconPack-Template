@@ -7,7 +7,7 @@ import com.actionbarsherlock.app.SherlockFragmentActivity;
 import com.actionbarsherlock.view.Window;
 
 import fragments.LauncherFragment;
-import your.icons.name.here.R;
+import co.w44.h4rsh.R;
 
 public class LauncherMain extends SherlockFragmentActivity {
 

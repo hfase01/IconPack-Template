@@ -16,7 +16,7 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.ViewFlipper;
 
-import your.icons.name.here.R;
+import co.w44.h4rsh.R;
 
 public class AboutThemeFragment extends AboutThemeMain {
 	

@@ -21,7 +21,7 @@ import helper.ScrollGridView;
 import java.util.ArrayList;
 import java.util.List;
 
-import your.icons.name.here.R;
+import co.w44.h4rsh.R;
 import adapters.NewIconsAdapter;
 import adapters.NewIconsAdapter.NewIconName;
 import android.animation.Animator;

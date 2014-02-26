@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import your.icons.name.here.R;
+import co.w44.h4rsh.R;
 
 public class LauncherAdapter extends BaseAdapter{
 	private Context context;

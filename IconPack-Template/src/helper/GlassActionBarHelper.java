@@ -15,7 +15,7 @@
  */
 package helper;
 
-import your.icons.name.here.R;
+import co.w44.h4rsh.R;
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
