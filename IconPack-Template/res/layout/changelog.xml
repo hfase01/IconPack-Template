@@ -20,125 +20,6 @@
         android:layout_height="wrap_content"
         android:orientation="vertical" >
 	        
-	        <!-- Changelog 9 -->
-        <TextView
-            android:id="@+id/change9"
-	        android:layout_width="wrap_content"
-	        android:layout_height="wrap_content"
-        	android:layout_marginTop="@dimen/left_right_margin"
-            android:text="@string/changelog_9"
-            android:textColor="@color/list_title_color"
-            android:textSize="@dimen/list_title_text" />
-	        <TextView
-	            android:id="@+id/change9_list"
-	            android:layout_width="wrap_content"
-	            android:layout_height="wrap_content"
-	            android:text="@string/cl_list_9"
-	            android:textColor="@color/list_desc_color"
-	            android:textSize="@dimen/list_desc_text" />
-	        
-	        
-	        <!-- Changelog 8 -->
-        <TextView
-            android:id="@+id/change8"
-	        android:layout_width="wrap_content"
-	        android:layout_height="wrap_content"
-        	android:layout_marginTop="@dimen/left_right_margin"
-            android:text="@string/changelog_8"
-            android:textColor="@color/list_title_color"
-            android:textSize="@dimen/list_title_text" />
-	        <TextView
-	            android:id="@+id/change8_list"
-	            android:layout_width="wrap_content"
-	            android:layout_height="wrap_content"
-	            android:text="@string/cl_list_8"
-	            android:textColor="@color/list_desc_color"
-	            android:textSize="@dimen/list_desc_text" />
-	        
-	        <!-- Changelog 7 -->
-        <TextView
-            android:id="@+id/change7"
-	        android:layout_width="wrap_content"
-	        android:layout_height="wrap_content"
-        	android:layout_marginTop="@dimen/left_right_margin"
-            android:text="@string/changelog_7"
-            android:textColor="@color/list_title_color"
-            android:textSize="@dimen/list_title_text" />
-	        <TextView
-	            android:id="@+id/change7_list"
-	            android:layout_width="wrap_content"
-	            android:layout_height="wrap_content"
-	            android:text="@string/cl_list_7"
-	            android:textColor="@color/list_desc_color"
-	            android:textSize="@dimen/list_desc_text" />
-	        
-	        <!-- Changelog 6 -->
-        <TextView
-            android:id="@+id/change6"
-	        android:layout_width="wrap_content"
-	        android:layout_height="wrap_content"
-        	android:layout_marginTop="@dimen/left_right_margin"
-            android:text="@string/changelog_6"
-	        android:textColor="@color/list_title_color"
-	        android:textSize="@dimen/list_title_text" />
-	        <TextView
-	            android:id="@+id/change6_list"
-	            android:layout_width="wrap_content"
-	            android:layout_height="wrap_content"
-	            android:text="@string/cl_list_6"
-	            android:textColor="@color/list_desc_color"
-	            android:textSize="@dimen/list_desc_text" />
-	        
-	        <!-- Changelog 5 -->
-        <TextView
-            android:id="@+id/change5"
-	        android:layout_width="wrap_content"
-	        android:layout_height="wrap_content"
-        	android:layout_marginTop="@dimen/left_right_margin"
-            android:text="@string/changelog_5"
-	        android:textColor="@color/list_title_color"
-	        android:textSize="@dimen/list_title_text" />
-	        <TextView
-	            android:id="@+id/change5_list"
-	            android:layout_width="wrap_content"
-	            android:layout_height="wrap_content"
-	            android:text="@string/cl_list_5"
-	            android:textColor="@color/list_desc_color"
-	            android:textSize="@dimen/list_desc_text" />
-	        
-	        <!-- Changelog 4 -->
-        <TextView
-            android:id="@+id/change4"
-	        android:layout_width="wrap_content"
-	        android:layout_height="wrap_content"
-        	android:layout_marginTop="@dimen/left_right_margin"
-            android:text="@string/changelog_4"
-	        android:textColor="@color/list_title_color"
-	        android:textSize="@dimen/list_title_text" />
-	        <TextView
-	            android:id="@+id/change4_list"
-	            android:layout_width="wrap_content"
-	            android:layout_height="wrap_content"
-	            android:text="@string/cl_list_4"
-	            android:textColor="@color/list_desc_color"
-	            android:textSize="@dimen/list_desc_text" />
-	        
-	        <!-- Changelog 3 -->
-        <TextView
-            android:id="@+id/change3"
-	        android:layout_width="wrap_content"
-	        android:layout_height="wrap_content"
-        	android:layout_marginTop="@dimen/left_right_margin"
-            android:text="@string/changelog_3"
-	        android:textColor="@color/list_title_color"
-	        android:textSize="@dimen/list_title_text" />
-	        <TextView
-	            android:id="@+id/change3_list"
-	            android:layout_width="wrap_content"
-	            android:layout_height="wrap_content"
-	            android:text="@string/cl_list_3"
-	            android:textColor="@color/list_desc_color"
-	            android:textSize="@dimen/list_desc_text" />
 	        
 	        <!-- Changelog 2 -->
         <TextView
@@ -150,12 +31,13 @@
 	        android:textColor="@color/list_title_color"
 	        android:textSize="@dimen/list_title_text" />
 	        <TextView
-	            android:id="@+id/change2_list"
+	            android:id="@+id/change3_list"
 	            android:layout_width="wrap_content"
 	            android:layout_height="wrap_content"
 	            android:text="@string/cl_list_2"
 	            android:textColor="@color/list_desc_color"
 	            android:textSize="@dimen/list_desc_text" />
+
 	        
 	        <!-- Changelog 1 -->
         <TextView
