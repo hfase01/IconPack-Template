@@ -2040,8 +2040,8 @@
 	<item component="ComponentInfo{tether.android/tether.android.Tether}" drawable="tether"/>
 	<!-- The Bards Tale -->
 	<item component="ComponentInfo{com.inxile.BardTale/com.inxile.BardTale.Startup}" drawable="thebardstale"/>
-	<!-- HFase -->
-	<item component="ComponentInfo{app.HFase.oss/app.activities.MainActivity}" drawable="oss" />
+	<!-- the1dynasty -->
+	<item component="ComponentInfo{app.the1dynasty.oss/app.activities.MainActivity}" drawable="oss" />
 	<!-- Theme Manager -->
 	<!-- Time Out London -->
 	<item component="ComponentInfo{com.timeout.android/com.timeout.android.home.HomeActivity}" drawable="timeoutlondon"/>

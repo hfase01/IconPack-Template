@@ -127,16 +127,16 @@ public class MainFragment extends SherlockFragment{
 							 ** Change line 136 with the play store link for your own app if you're 
 							 ** using this feature!
 							 **/
-							if(isPackageExists("app.HFase.oss")){
+							if(isPackageExists("app.the1dynasty.oss")){
 								Intent oss = new Intent("android.intent.action.MAIN");
 								oss.setComponent(ComponentName.unflattenFromString
-										("app.HFase.oss/app.activities.MainActivity"));
+										("app.the1dynasty.oss/app.activities.MainActivity"));
 								oss.addCategory("android.intent.category.LAUNCHER");
 								startActivity(oss);
 							}
 							else{
 								Intent oss = new Intent(Intent.ACTION_VIEW).setData(Uri.parse
-										("market://details?id=app.HFase.oss"));
+										("market://details?id=app.the1dynasty.oss"));
 								startActivity(oss);
 						}
 			    			break;
@@ -174,16 +174,16 @@ public class MainFragment extends SherlockFragment{
 						 ** Change line 195 with the play store link for your own app if you're 
 						 ** using this feature!
 						 **/
-						if(isPackageExists("app.HFase.oss")){
+						if(isPackageExists("app.the1dynasty.oss")){
 							Intent oss = new Intent("android.intent.action.MAIN");
 							oss.setComponent(ComponentName.unflattenFromString
-									("app.HFase.oss/app.activities.MainActivity"));
+									("app.the1dynasty.oss/app.activities.MainActivity"));
 							oss.addCategory("android.intent.category.LAUNCHER");
 							startActivity(oss);
 						}
 						else{
 							Intent oss = new Intent(Intent.ACTION_VIEW).setData(Uri.parse
-									("market://details?id=app.HFase.oss"));
+									("market://details?id=app.the1dynasty.oss"));
 							startActivity(oss);
 					}
 		    			break;

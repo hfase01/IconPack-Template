@@ -1,5 +1,5 @@
 /*
- * Copyright 2013 HFase
+ * Copyright 2013 the1dynasty
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -123,7 +123,7 @@ public class Main extends SherlockFragmentActivity {
 	 ******************************************************************************/
 	public void onStart() {
 		super.onStart();
-		boolean installed = isAppInstalled("app.HFase.oss");
+		boolean installed = isAppInstalled("app.the1dynasty.oss");
 		
 		// Checking if installed and if its the first run
 	    if (installed) {
@@ -169,7 +169,7 @@ public class Main extends SherlockFragmentActivity {
 				@Override
 				public void onClick(DialogInterface arg0, int arg1) {
 					Intent share = new Intent(Intent.ACTION_VIEW).setData(Uri.parse
-							("market://details?id=co.w44.w44co"));
+							("market://details?id=app.the1dynasty.oss"));
 		    		startActivity(share);
 			}
 			});
@@ -210,7 +210,7 @@ public class Main extends SherlockFragmentActivity {
                 break;
             case R.id.emailButton:
             	Intent emailIntent = new Intent(android.content.Intent.ACTION_SEND);
-				emailIntent.putExtra(android.content.Intent.EXTRA_EMAIL, new String[] { "HFase.android@gmail.com" });
+				emailIntent.putExtra(android.content.Intent.EXTRA_EMAIL, new String[] { "the1dynasty.android@gmail.com" });
 				emailIntent.putExtra(android.content.Intent.EXTRA_SUBJECT, getResources().getText(R.string.email_subject));
 				emailIntent.setType("plain/text");
 				startActivity(Intent.createChooser(emailIntent, "Contact Developer"));

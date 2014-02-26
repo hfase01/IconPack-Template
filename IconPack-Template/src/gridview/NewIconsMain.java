@@ -1,5 +1,5 @@
 /*
- * Copyright 2013 HFase and Pkmmte
+ * Copyright 2013 the1dynasty and Pkmmte
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.

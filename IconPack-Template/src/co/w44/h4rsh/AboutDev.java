@@ -57,7 +57,7 @@ public class AboutDev extends SherlockActivity {
       twitter.setOnClickListener(new OnClickListener() {
               public void onClick(View v) {
               	try {
-              		final Intent intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse("http://twitter.com/HFase"));
+              		final Intent intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse("http://twitter.com/the1dynasty"));
               		startActivity(intent);
               	} 
               	catch (RuntimeException tw) {
@@ -70,7 +70,7 @@ public class AboutDev extends SherlockActivity {
       facebook.setOnClickListener(new OnClickListener() {
               public void onClick(View v) {
               	try {
-              		final Intent intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse("https://www.facebook.com/pages/HFase/428692913887012"));
+              		final Intent intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse("https://www.facebook.com/pages/The1dynasty/428692913887012"));
               		startActivity(intent);
               	} 
               	catch (RuntimeException tw) {
