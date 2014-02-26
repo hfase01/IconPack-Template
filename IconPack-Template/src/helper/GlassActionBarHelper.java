@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2013 Manuel Peinado and the1dynasty
+ * Copyright (C) 2013 Manuel Peinado and HFase
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.

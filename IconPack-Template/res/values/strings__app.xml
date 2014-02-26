@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!--
-** Copyright 2013, the1dynasty
+** Copyright 2013, HFase
 **
 ** Licensed under the Apache License, Version 2.0 (the "License");
 ** you may not use this file except in compliance with the License.
@@ -57,7 +57,7 @@
 		<!-- Misc Labels -->
 	<string name="twitterme">Follow On Twitter</string>
 	<string name="wall_picker">Wallpaper Picker</string>
-	<string name="dynasty_app">the1dynasty OSS App</string>
+	<string name="dynasty_app">HFase OSS App</string>
 	
 		<!-- More OverFlow Stuff -->
 	<string name="icon_share">Share</string>
@@ -101,10 +101,10 @@
 	
   		<!-- App Check Stuff -->
 	<string name="alert_start_title">You Are AWESOME!!!</string>
-	<string name="alert_start_desc">You also have my One-Stop-Shop App installed. 
+	<string name="alert_start_desc">You also have development blog app installed. 
 	    n\n\ Be sure to visit that app for more themes and other downloads!</string>
 	<string name="error_start_title">Ohnoes!!!</string>
-	<string name="error_start_desc">We have detected that you do not have my One-Stop-Shop App installed.
+	<string name="error_start_desc">Seems you do not have the development blog app installed.
 	     Would you like to download it for FREE now?</string>
 
 		<!-- Wallpaper window -->

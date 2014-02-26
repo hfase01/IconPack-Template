@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!--
-** Copyright 2013, the1dynasty
+** Copyright 2013, HFase
 **
 ** Licensed under the Apache License, Version 2.0 (the "License");
 ** you may not use this file except in compliance with the License.
@@ -23,10 +23,10 @@
 		<!-- This link will appear at the end of the theme description -->
 	<string name="app_link">https://play.google.com/store/apps/details?id=co.w44.h4rsh</string>
 	
-	<string name="developer_link">https://play.google.com/store/apps/developer?id=the1dynasty</string>
-	<string name="developer_name">the1dynasty</string>
-	<string name="dev_name">DEV NAME - the1dynasty</string>
-	<string name="dev_bio_title">MORE ABOUT the1dynasty</string>
+	<string name="developer_link">https://play.google.com/store/apps/developer?id=HFase</string>
+	<string name="developer_name">HFase</string>
+	<string name="dev_name">DEV NAME - HFase</string>
+	<string name="dev_bio_title">MORE ABOUT HFase</string>
 	
 	<string name="theme_description_app">"This is the description of your theme that shows up under the About Theme section of the app!"</string>
 	
