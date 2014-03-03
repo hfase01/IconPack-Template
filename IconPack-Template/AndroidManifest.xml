@@ -50,7 +50,8 @@
         android:label="@string/app_name" 
         android:icon="@drawable/icon"
         android:theme="@style/AppTheme" 
-        android:largeHeap="true" >
+        android:largeHeap="true"
+        android:debuggable="false" >
     <!-- Use AppTheme_Dark for the dark version of some windows -->
         
     <!-- Main Activity that launches when you open the app from the drawer -->
