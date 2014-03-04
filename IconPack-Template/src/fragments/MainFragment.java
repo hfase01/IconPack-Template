@@ -68,34 +68,30 @@ public class MainFragment extends SherlockFragment{
 		boolean tabletSize = getResources().getBoolean(R.bool.isTablet);
 		if (tabletSize) {
 			gridView = (ScrollGridView)getView().findViewById(R.id.grid);
-			listOfStuff.add(new AdapterItem(getResources().getString (R.string.title_app), 
-					getResources().getString (R.string.desc_oss), 0));
 			listOfStuff.add(new AdapterItem(getResources().getString (R.string.title_new_icons), 
-					getResources().getString (R.string.desc_new_icons), 1));
+					getResources().getString (R.string.desc_new_icons), 0));
 			listOfStuff.remove(new AdapterItem(getResources().getString (R.string.title_info), 
-					getResources().getString (R.string.desc_info), 2));
+					getResources().getString (R.string.desc_info), 1));
 			listOfStuff.add(new AdapterItem(getResources().getString (R.string.title_apply), 
-					getResources().getString (R.string.desc_apply), 3));
+					getResources().getString (R.string.desc_apply), 2));
 			listOfStuff.add(new AdapterItem(getResources().getString (R.string.title_walls), 
-					getResources().getString (R.string.desc_walls), 4));
+					getResources().getString (R.string.desc_walls), 3));
 			listOfStuff.add(new AdapterItem(getResources().getString (R.string.title_community), 
-					getResources().getString (R.string.desc_community), 5));
+					getResources().getString (R.string.desc_community), 4));
 
 			
 		} else {
 			gridView = (ScrollGridView)getView().findViewById(R.id.grid);
-			listOfStuff.add(new AdapterItem(getResources().getString (R.string.title_app), 
-					getResources().getString (R.string.desc_oss), 0));
 			listOfStuff.add(new AdapterItem(getResources().getString (R.string.title_new_icons), 
-					getResources().getString (R.string.desc_new_icons), 1));
+					getResources().getString (R.string.desc_new_icons), 0));
 			listOfStuff.add(new AdapterItem(getResources().getString (R.string.title_info), 
-					getResources().getString (R.string.desc_info), 2));
+					getResources().getString (R.string.desc_info), 1));
 			listOfStuff.add(new AdapterItem(getResources().getString (R.string.title_apply), 
-					getResources().getString (R.string.desc_apply), 3));
+					getResources().getString (R.string.desc_apply), 2));
 			listOfStuff.add(new AdapterItem(getResources().getString (R.string.title_walls), 
-					getResources().getString (R.string.desc_walls), 4));
+					getResources().getString (R.string.desc_walls), 3));
 			listOfStuff.add(new AdapterItem(getResources().getString (R.string.title_community), 
-					getResources().getString (R.string.desc_community), 5));
+					getResources().getString (R.string.desc_community), 4));
 		}
 
 		/**
@@ -117,42 +113,19 @@ public class MainFragment extends SherlockFragment{
 					if (tabletSize) { // for tablets
 						
 						switch (position) {
-						case 0:
-							/** 
-							 ** This checks if MY OSS app is installed. You can remove this case
-							 ** statement completely or add your own app to check against or leave
-							 ** it and let it check for MY app :D
-							 ** If it is installed, the app will open when you press the list item
-							 ** If it is NOT installed, it will open up the play store to download it
-							 ** Change line 136 with the play store link for your own app if you're 
-							 ** using this feature!
-							 **/
-							if(isPackageExists("co.w44.w44co")){
-								Intent oss = new Intent("android.intent.action.MAIN");
-								oss.setComponent(ComponentName.unflattenFromString
-										("co.w44.w44co/app.activities.MainActivity"));
-								oss.addCategory("android.intent.category.LAUNCHER");
-								startActivity(oss);
-							}
-							else{
-								Intent oss = new Intent(Intent.ACTION_VIEW).setData(Uri.parse
-										("market://details?id=co.w44.w44co"));
-								startActivity(oss);
-						}
-			    			break;
-			    		case 1:
+			    		case 0:
 			    			Intent requestIcons = new Intent(getSherlockActivity(), NewIconsMain.class);
 			    			startActivity(requestIcons);
 			    			break;
-						case 2:
+						case 1:
 							Intent launcher = new Intent(getSherlockActivity(), LauncherMain.class);
 							startActivity(launcher);
 			        		break;
-						case 3:
+						case 2:
 							Intent wall = new Intent(getSherlockActivity(), Wallpaper.class);
 							startActivity(wall);
 			        		break;
-						case 4:
+						case 3:
 							/** 
 							 ** This launches my community on G+
 							 ** Please leave this link in here for others to join. Thank You!
@@ -164,46 +137,23 @@ public class MainFragment extends SherlockFragment{
 		}	
 				} else {	// for phones
 					switch (position) {
-					case 0:
-						/** 
-						 ** This checks if MY OSS app is installed. You can remove this
-						 ** section completely or Add your own app to check against or leave
-						 ** it and let it check for MY app :D
-						 ** If it is installed, the app will open when you press the list item
-						 ** If it is NOT installed, it will open up the play store to download it
-						 ** Change line 195 with the play store link for your own app if you're 
-						 ** using this feature!
-						 **/
-						if(isPackageExists("co.w44.w44co")){
-							Intent oss = new Intent("android.intent.action.MAIN");
-							oss.setComponent(ComponentName.unflattenFromString
-									("co.w44.w44co/app.activities.MainActivity"));
-							oss.addCategory("android.intent.category.LAUNCHER");
-							startActivity(oss);
-						}
-						else{
-							Intent oss = new Intent(Intent.ACTION_VIEW).setData(Uri.parse
-									("market://details?id=co.w44.w44co"));
-							startActivity(oss);
-					}
-		    			break;
-		    		case 1:
+		    		case 0:
 		    			Intent requestIcons = new Intent(getSherlockActivity(), NewIconsMain.class);
 		    			startActivity(requestIcons);
 		    			break;
-					case 2:
+					case 1:
 						Intent aboutTheme = new Intent(getSherlockActivity(), AboutThemeActivity.class);
 						startActivity(aboutTheme);
 		        		break;
-					case 3:
+					case 2:
 						Intent launcher = new Intent(getSherlockActivity(), LauncherMain.class);
 						startActivity(launcher);
 		        		break;
-					case 4:
+					case 3:
 						Intent wall = new Intent(getSherlockActivity(), Wallpaper.class);
 						startActivity(wall);
 		        		break;
-					case 5:
+					case 4:
 						/** 
 						 ** This launches my community on G+
 						 ** Please leave this link in here for others to join. Thank You!
