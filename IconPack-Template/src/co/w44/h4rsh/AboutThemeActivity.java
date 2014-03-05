@@ -15,6 +15,7 @@ import android.widget.ViewFlipper;
 
 import co.w44.h4rsh.R;
 import com.actionbarsherlock.app.SherlockActivity;
+import com.google.analytics.tracking.android.EasyTracker;
 
 public class AboutThemeActivity extends SherlockActivity {
 	
@@ -27,7 +28,7 @@ public class AboutThemeActivity extends SherlockActivity {
 	   Animation animUpRight;
 	   Animation animDownLeft;
 	   Animation animDownRight;
-	
+
 	@Override
 	  public void onCreate(Bundle savedInstanceState) {
 	  super.onCreate(savedInstanceState);
@@ -100,9 +101,17 @@ public class AboutThemeActivity extends SherlockActivity {
 		= new GestureDetector(simpleOnGestureListener);
 		{
 	}
+		
+		@Override
+		public void onStart() {
+		  super.onStart();
+		  EasyTracker.getInstance(this).activityStart(this);
+		}
+		
 		@Override
 		  public void onPause(){
 			  super.onPause();
 			  finish();
+			  EasyTracker.getInstance(this).activityStart(this);
 		  }
 }

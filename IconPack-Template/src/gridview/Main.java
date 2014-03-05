@@ -37,6 +37,7 @@ import android.widget.Button;
 import android.widget.Toast;
 import co.w44.h4rsh.AboutDev;
 import co.w44.h4rsh.R;
+import com.google.analytics.tracking.android.EasyTracker;
 
 import com.actionbarsherlock.app.SherlockFragmentActivity;
 import com.actionbarsherlock.view.Menu;
@@ -112,6 +113,11 @@ public class Main extends SherlockFragmentActivity {
 	 	return CDialog;
 	 }
 
+	@Override
+	public void onStart() {
+	  super.onStart();
+	  EasyTracker.getInstance(this).activityStart(this);
+	}
 	
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu)

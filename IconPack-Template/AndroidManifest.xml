@@ -19,8 +19,8 @@
 <manifest 
 		xmlns:android="http://schemas.android.com/apk/res/android"
       	package="co.w44.h4rsh"
-      	android:versionCode="101"
-      	android:versionName="1.0.1"
+      	android:versionCode="103"
+      	android:versionName="1.0.3"
       	android:installLocation="auto">
     <!-- android:installLocation is set to "auto" 
     change to "internalOnly" if you want it installed to the internal memory -->
@@ -28,7 +28,8 @@
     <!-- Permission required for setting the wallpaper -->
     <uses-permission android:name="android.permission.SET_WALLPAPER" />
     <uses-permission android:name="android.permission.SET_WALLPAPER_HINTS" />
-    
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />   
     <!-- This lets this code work on any screen size -->
     <supports-screens 
         android:anyDensity="true" 

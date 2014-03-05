@@ -24,6 +24,7 @@ import android.widget.ImageView;
 
 import co.w44.h4rsh.R;
 import com.actionbarsherlock.app.SherlockActivity;
+import com.google.analytics.tracking.android.EasyTracker;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -90,7 +91,13 @@ public class Wallpaper extends SherlockActivity implements AdapterView.OnItemSel
             }
         }
     }
-
+	
+	@Override
+	public void onStart() {
+	  super.onStart();
+	  EasyTracker.getInstance(this).activityStart(this);
+	}
+	
     @Override
     protected void onResume() {
         super.onResume();

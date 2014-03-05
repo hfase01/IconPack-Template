@@ -1,6 +1,8 @@
 package co.w44.h4rsh;
 
 
+import java.util.ArrayList;
+
 import android.content.Context;
 import android.content.Intent;
 import android.content.res.Resources;
@@ -16,10 +18,7 @@ import android.widget.BaseAdapter;
 import android.widget.GridView;
 import android.widget.ImageView;
 
-import co.w44.h4rsh.R;
 import com.actionbarsherlock.app.SherlockActivity;
-
-import java.util.ArrayList;
 
 public class Icons extends SherlockActivity implements OnItemClickListener {
 	private static final String ACTION_ADW_PICK_ICON="org.adw.launcher.icons.ACTION_PICK_ICON";
@@ -68,7 +67,8 @@ public class Icons extends SherlockActivity implements OnItemClickListener {
 			this.mIconSize = iconsize;
 			loadIcons();
 		}
-
+		
+		
 		@Override
 		public int getCount() {
 			return mThumbs.size();
