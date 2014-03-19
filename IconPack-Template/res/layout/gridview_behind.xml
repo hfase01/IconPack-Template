@@ -27,4 +27,4 @@
     android:dividerHeight="0dp"
     android:listSelector="@color/transparent"
     android:cacheColorHint="@color/transparent" 
-    tools:context="gridview.Main" />
+    tools:context="gridview.H4rsh" />

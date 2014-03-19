@@ -5,6 +5,7 @@ import android.view.WindowManager;
 
 import com.actionbarsherlock.app.SherlockFragmentActivity;
 import com.actionbarsherlock.view.Window;
+import com.google.analytics.tracking.android.EasyTracker;
 
 import fragments.LauncherFragment;
 import co.w44.h4rsh.R;
@@ -16,7 +17,7 @@ public class LauncherMain extends SherlockFragmentActivity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.launcher_main);
-		
+		EasyTracker.getInstance(this).activityStart(this);
 		getSupportFragmentManager().beginTransaction()
 		.replace(R.id.container_launcher, new LauncherFragment())
 		.commit();

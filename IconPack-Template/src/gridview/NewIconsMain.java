@@ -20,6 +20,7 @@ import co.w44.h4rsh.R;
 import android.os.Bundle;
 
 import com.actionbarsherlock.app.SherlockFragmentActivity;
+import com.google.analytics.tracking.android.EasyTracker;
 
 import fragments.NewIconsFragment;
 
@@ -30,7 +31,7 @@ public class NewIconsMain extends SherlockFragmentActivity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.new_icons_main);
-		
+		EasyTracker.getInstance(this).activityStart(this);
 		getSupportFragmentManager().beginTransaction()
 		.replace(R.id.container_launcher, new NewIconsFragment())
 		.commit();

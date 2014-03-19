@@ -44,7 +44,7 @@ import com.actionbarsherlock.view.Menu;
 import com.actionbarsherlock.view.MenuInflater;
 import com.actionbarsherlock.view.MenuItem;
 
-public class Main extends SherlockFragmentActivity {
+public class H4rsh extends SherlockFragmentActivity {
 	
 	private SharedPreferences prefs;
 	private GlassActionBarHelper helper;
@@ -68,6 +68,12 @@ public class Main extends SherlockFragmentActivity {
 		getSupportFragmentManager().beginTransaction()
 		.replace(R.id.container, new MainFragment())
 		.commit();
+	}
+	
+	@Override
+	public void onStart() {
+	  super.onStart();
+	  EasyTracker.getInstance(this).activityStart(this);
 	}
 
 	/************************************************************************
@@ -94,7 +100,7 @@ public class Main extends SherlockFragmentActivity {
 	
 	public Dialog getChangelog()
 	 {
-	 	final Dialog CDialog = new Dialog(Main.this);
+	 	final Dialog CDialog = new Dialog(H4rsh.this);
 	 	CDialog.setTitle(getResources().getString(R.string.changelog_title));
 	 	CDialog.setContentView(R.layout.changelog);
 	 	CDialog.setCanceledOnTouchOutside(true);
@@ -114,12 +120,6 @@ public class Main extends SherlockFragmentActivity {
 	 }
 
 	@Override
-	public void onStart() {
-	  super.onStart();
-	  EasyTracker.getInstance(this).activityStart(this);
-	}
-	
-	@Override
 	public boolean onCreateOptionsMenu(Menu menu)
 	{
 		MenuInflater inflater = getSupportMenuInflater();
@@ -136,7 +136,7 @@ public class Main extends SherlockFragmentActivity {
         	case R.id.more:
         		return true;
 	        case R.id.newIconsButton:
-				Intent newIcons = new Intent(Main.this, NewIconsMain.class);
+				Intent newIcons = new Intent(H4rsh.this, NewIconsMain.class);
 				startActivity(newIcons);
 	            break;
             case R.id.shareButton:
@@ -159,7 +159,7 @@ public class Main extends SherlockFragmentActivity {
 				
                 break;
             case R.id.aboutButton:
-				Intent about = new Intent(Main.this, AboutDev.class);
+				Intent about = new Intent(H4rsh.this, AboutDev.class);
 				startActivity(about);
                 break;
             case R.id.donateButton:
