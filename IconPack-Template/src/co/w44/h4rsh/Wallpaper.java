@@ -66,8 +66,8 @@ public class Wallpaper extends SherlockActivity implements AdapterView.OnItemSel
     }
 
     private void findWallpapers() {
-        mThumbs = new ArrayList<Integer>(24);
-        mImages = new ArrayList<Integer>(24);
+        mThumbs = new ArrayList<Integer>();
+        mImages = new ArrayList<Integer>();
 
         final Resources resources = getResources();
         final String packageName = getApplication().getPackageName();

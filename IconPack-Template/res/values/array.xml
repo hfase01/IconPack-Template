@@ -6,7 +6,15 @@
 		<item>wall_1</item>  
 		<item>wall_2</item>  
 		<item>wall_3</item>  
-		<item>wall_4</item>  
+		<item>wall_4</item>
+		<item>wall_5</item>
+		<item>wall_6</item>
+		<item>wall_7</item>
+		<item>wall_8</item>
+		<item>wall_9</item>
+		<item>wall_10</item>
+		<item>wall_11</item>
+		<item>wall_12</item>
 	</string-array>
 
     <!-- Provide a list of wallpaers -->
@@ -15,6 +23,14 @@
         <item>wall_2</item>
         <item>wall_3</item>
         <item>wall_4</item>
+		<item>wall_5</item>
+		<item>wall_6</item>
+		<item>wall_7</item>
+		<item>wall_8</item>
+		<item>wall_9</item>
+		<item>wall_10</item>
+		<item>wall_11</item>
+		<item>wall_12</item>
     </string-array>
     
     <string-array name="extra_wallpapers">
