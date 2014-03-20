@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+** Copyright 2013, HFase
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+-->
+
+<!-- Lines 35, 57, 98 need to be changed. Everything else can stay the same -->
+
+<resources>
+    
+    	<!-- Applied Toast Messages -->
+	<string name="finish_apply">Seleccione sus opciones y pulse Aplicar para finalizar!</string>
+	<string name="apex_market">Lanzador de Apex no está instalado en su dispositivo. Redirigir a la Play Store!</string>
+	<string name="nova_market">Nova Launcher no está instalado en su dispositivo. Redirigir a la Play Store!</string>
+	<string name="holo_market">Holo Launcher no está instalado en su dispositivo. Redirigir a la Play Store!!</string>
+	<string name="adw_market">ADW Launcher no está instalado en su dispositivo. Redirigir a la Play Store!</string>
+	<string name="al_market">Action Launcher no está instalado en su dispositivo. Redirigir a la Play Store!</string>
+	<string name="go_market">Go Launcher no está instalado en su dispositivo. Redirigir a la Play Store!</string>
+	<string name="next_market">Next Launcher no está instalado en su dispositivo. Redirigir a la Play Store!</string>
+	<string name="not_supported">Actualmente no se admite. Por favor Aplicar a través de la configuración de lanzamiento.</string>
+	
+		<!-- GridView Titles -->
+	<string name="title_app">W44CO</string>
+	<string name="title_info">Información del tema</string>
+	<string name="title_apply">Aplicar tema</string>
+	<string name="title_walls">Fondo</string>
+	<string name="title_community">G+ Community</string>
+	<string name="title_gplus">Mi Google+</string>
+	<string name="title_request">Solicitud Icono</string>
+	
+		<!-- OverFlow Menu -->
+	<string name="title_new_icons">Recién añadido</string>
+	<string name="title_rate">Valorar Tema</string>
+	<string name="title_share">Compartir Tema</string>
+	<string name="title_email">Correo del desarrollador</string>
+	<string name="title_about">Acerca desarrollador</string>
+	<string name="title_donate">Donar</string>
+	<string name="more_overflow">Mas</string>
+	<string name="submit">Entregar</string>
+	
+		<!-- Labels for app icons -->
+	<string name="about_theme">Acerca de Tema</string>
+	<string name="googleme">Círculo En Google+</string>
+	
+		<!-- Misc Labels -->
+	<string name="twitterme">Siga en Twitter</string>
+	<string name="wall_picker">Fondo Selector</string>
+	<string name="dynasty_app">the1dynasty OSS App</string>
+	
+		<!-- More OverFlow Stuff -->
+	<string name="icon_share">Cuota</string>
+	<string name="about_dev">Acerca Desarrollador</string>
+	<string name="email_dev">Contacto</string>
+	<string name="donate">Donar</string>
+	<string name="rateme">Velocidad</string>
+	
+		<!-- Misc Stuff -->
+	<string name="more_dev">Más Del Desarrollador</string>
+	<string name="content_description">Fish</string>
+	<string name="back_button">Regreso</string>
+	<string name="about_image_main">Principal Sobre la Imagen</string>
+	<string name="divider">Divisor De Texto</string>
+	<string name="later">Atrasado</string>
+	<string name="get">Obtener Aplicaciones</string>
+	<string name="share">Cuota</string>
+	<string name="ok">Bueno</string>
+	<string name="close">Cerca</string>
+	<string name="new_icons_title">Iconos Recién Agregado</string>
+  	<string name="cancel">Cancelar</string>
+	
+		<!-- GridView Description -->
+		<!-- Note: Try not to pass the length of the description or you will have text layout issues on the Cards -->
+	<string name="desc_oss">Todas mis cosas en un solo lugar!</string>
+	<string name="desc_new_icons">Lista de los iconos añadidos sobre cada actualización!</string>
+	<string name="desc_info">Detalles y una vista previa de este tema.</string>
+	<string name="desc_apply">Elija entre los lanzadores para aplicar el tema!</string>
+	<string name="desc_walls">Elija entre el fondo incluido.</string>
+	<string name="desc_community">Únete a nuestra Comunidad Google+ encontrar y compartir tus temas!</string>
+	<string name="desc_gplus">Me círculo en Google+</string>
+  	<string name="desc_request">Faltan iconos? Envíe su solicitud al desarrollador.</string>
+	
+  		<!-- Launcher Dialog -->
+  	<string name="launcher_apex">Apex</string>
+  	<string name="launcher_nova">Nova</string>
+  	<string name="launcher_holo">Holo</string>
+  	<string name="launcher_adw">ADW</string>
+  	<string name="launcher_al">Action</string>
+  	<string name="launcher_title">Elija su Lanzador</string>
+	
+  		<!-- App Check Stuff -->
+	<string name="alert_start_title">Usted es increíble!</string>
+	<string name="alert_start_desc">You also have the devloper blog installed! 
+	    n\n\ Be sure to visit that app for more themes and other downloads!</string>
+	<string name="error_start_title">Whoh!</string>
+	<string name="error_start_desc">We have detected that you do not have the devloper blog App installed.
+	     Would you like to download it for FREE now?</string>
+
+		<!-- Wallpaper window -->
+	<string name="wall_apply">Aplicar Fondo</string>
+	
+		<!-- Dummy Content -->
+	<string name="dummy_desc"></string>
+	
+	
+		<!-- Unused Strings: You CAN Delete these if you use the default setup -->
+	<string name="desc_share">Comparte este tema con los demás</string>
+	<string name="desc_rate">Valorar este tema en la Play Store</string>
+	<string name="desc_email">Envíe sus peticiones o simplemente dar su opinión</string>
+	<string name="desc_about">Más información sobre el desarrollador</string>
+	<string name="desc_donate">Considere donar para ayudar a contribuir a futuras versiones!</string>
+	
+</resources>
