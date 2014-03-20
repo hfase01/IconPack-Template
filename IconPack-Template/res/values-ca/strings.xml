@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<!-- THIS TRANSLATION IS SPANISH, ES
+<!-- THIS TRANSLATION IS CATALAN, CA
 ** Copyright 2013, HFase
 **
 ** Licensed under the Apache License, Version 2.0 (the "License");
@@ -20,7 +20,7 @@
 		<!-- Label for app name in launcher -->
 		<!-- Edit these two strings to match your theme name -->
 	<string name="app_name">H4RSH</string>
-	<string name="theme_name">Theme Name - H4RSH</string>
+	<string name="theme_name">nom del tema - H4RSH</string>
 	
 		<!-- Apex Previews -->
 	<string name="theme_feature">theme_header</string>
@@ -50,6 +50,6 @@
 	<bool name="enableIconPack">true</bool>
 	<bool name="enableDockPack">false</bool>
 	<string name="theme_title">H4RSH</string>
-	<string name="go_applied">Thanks for using H4RSH. Your theme is being set!</string>
+	<string name="go_applied">Gràcies per utilitzar H4RSH.</string>
 		
 </resources>

@@ -705,6 +705,26 @@ containing a value of this type.
         public static final int abs__split_action_bar_is_narrow=0x7f090001;
         /**  Apex Theme settings 
  Apex Theme settings 
+ Apex Theme settings 
+ Apex Theme settings 
+ Apex Theme settings 
+ Apex Theme settings 
+ Apex Theme settings 
+ Apex Theme settings 
+ Apex Theme settings 
+ Apex Theme settings 
+ Apex Theme settings 
+ Apex Theme settings 
+ Apex Theme settings 
+ Apex Theme settings 
+ Apex Theme settings 
+ Apex Theme settings 
+ Apex Theme settings 
+ Apex Theme settings 
+ Apex Theme settings 
+ Apex Theme settings 
+ Apex Theme settings 
+ Apex Theme settings 
          */
         public static final int config_apexskin=0x7f09000f;
         public static final int config_desktop_indicator=0x7f09000e;
@@ -1467,6 +1487,26 @@ containing a value of this type.
         public static final int about_image_main=0x7f0d0042;
         /**  Labels for app icons 
  Labels for app icons 
+ Labels for app icons 
+ Labels for app icons 
+ Labels for app icons 
+ Labels for app icons 
+ Labels for app icons 
+ Labels for app icons 
+ Labels for app icons 
+ Labels for app icons 
+ Labels for app icons 
+ Labels for app icons 
+ Labels for app icons 
+ Labels for app icons 
+ Labels for app icons 
+ Labels for app icons 
+ Labels for app icons 
+ Labels for app icons 
+ Labels for app icons 
+ Labels for app icons 
+ Labels for app icons 
+ Labels for app icons 
          */
         public static final int about_theme=0x7f0d0035;
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 
@@ -1513,14 +1553,94 @@ containing a value of this type.
         public static final int alert_start_desc=0x7f0d005a;
         /**  App Check Stuff 
  App Check Stuff 
+ App Check Stuff 
+ App Check Stuff 
+ App Check Stuff 
+ App Check Stuff 
+ App Check Stuff 
+ App Check Stuff 
+ App Check Stuff 
+ App Check Stuff 
+ App Check Stuff 
+ App Check Stuff 
+ App Check Stuff 
+ App Check Stuff 
+ App Check Stuff 
+ App Check Stuff 
+ App Check Stuff 
+ App Check Stuff 
+ App Check Stuff 
+ App Check Stuff 
+ App Check Stuff 
+ App Check Stuff 
          */
         public static final int alert_start_title=0x7f0d0059;
         public static final int apex_market=0x7f0d001e;
         /**  This link will appear at the end of the theme description 
  This link will appear at the end of the theme description 
+ This link will appear at the end of the theme description 
+ This link will appear at the end of the theme description 
+ This link will appear at the end of the theme description 
+ This link will appear at the end of the theme description 
+ This link will appear at the end of the theme description 
+ This link will appear at the end of the theme description 
+ This link will appear at the end of the theme description 
+ This link will appear at the end of the theme description 
+ This link will appear at the end of the theme description 
+ This link will appear at the end of the theme description 
+ This link will appear at the end of the theme description 
+ This link will appear at the end of the theme description 
+ This link will appear at the end of the theme description 
+ This link will appear at the end of the theme description 
+ This link will appear at the end of the theme description 
+ This link will appear at the end of the theme description 
+ This link will appear at the end of the theme description 
+ This link will appear at the end of the theme description 
+ This link will appear at the end of the theme description 
+ This link will appear at the end of the theme description 
          */
         public static final int app_link=0x7f0d0069;
         /**  Label for app name in launcher 
+ Edit these two strings to match your theme name 
+ Label for app name in launcher 
+ Edit these two strings to match your theme name 
+ Label for app name in launcher 
+ Edit these two strings to match your theme name 
+ Label for app name in launcher 
+ Edit these two strings to match your theme name 
+ Label for app name in launcher 
+ Edit these two strings to match your theme name 
+ Label for app name in launcher 
+ Edit these two strings to match your theme name 
+ Label for app name in launcher 
+ Edit these two strings to match your theme name 
+ Label for app name in launcher 
+ Edit these two strings to match your theme name 
+ Label for app name in launcher 
+ Edit these two strings to match your theme name 
+ Label for app name in launcher 
+ Edit these two strings to match your theme name 
+ Label for app name in launcher 
+ Edit these two strings to match your theme name 
+ Label for app name in launcher 
+ Edit these two strings to match your theme name 
+ Label for app name in launcher 
+ Edit these two strings to match your theme name 
+ Label for app name in launcher 
+ Edit these two strings to match your theme name 
+ Label for app name in launcher 
+ Edit these two strings to match your theme name 
+ Label for app name in launcher 
+ Edit these two strings to match your theme name 
+ Label for app name in launcher 
+ Edit these two strings to match your theme name 
+ Label for app name in launcher 
+ Edit these two strings to match your theme name 
+ Label for app name in launcher 
+ Edit these two strings to match your theme name 
+ Label for app name in launcher 
+ Edit these two strings to match your theme name 
+ Label for app name in launcher 
  Edit these two strings to match your theme name 
  Label for app name in launcher 
  Edit these two strings to match your theme name 
@@ -1530,14 +1650,74 @@ containing a value of this type.
         public static final int cancel=0x7f0d004a;
         /**  Version Number: Add more or remove some 
  Version Number: Add more or remove some 
+ Version Number: Add more or remove some 
+ Version Number: Add more or remove some 
+ Version Number: Add more or remove some 
+ Version Number: Add more or remove some 
+ Version Number: Add more or remove some 
+ Version Number: Add more or remove some 
+ Version Number: Add more or remove some 
+ Version Number: Add more or remove some 
+ Version Number: Add more or remove some 
+ Version Number: Add more or remove some 
+ Version Number: Add more or remove some 
+ Version Number: Add more or remove some 
+ Version Number: Add more or remove some 
+ Version Number: Add more or remove some 
+ Version Number: Add more or remove some 
+ Version Number: Add more or remove some 
+ Version Number: Add more or remove some 
+ Version Number: Add more or remove some 
+ Version Number: Add more or remove some 
+ Version Number: Add more or remove some 
          */
         public static final int changelog_1=0x7f0d0065;
         public static final int changelog_2=0x7f0d0066;
         /**  Changelog Info 
  Changelog Info 
+ Changelog Info 
+ Changelog Info 
+ Changelog Info 
+ Changelog Info 
+ Changelog Info 
+ Changelog Info 
+ Changelog Info 
+ Changelog Info 
+ Changelog Info 
+ Changelog Info 
+ Changelog Info 
+ Changelog Info 
+ Changelog Info 
+ Changelog Info 
+ Changelog Info 
+ Changelog Info 
+ Changelog Info 
+ Changelog Info 
+ Changelog Info 
+ Changelog Info 
          */
         public static final int changelog_title=0x7f0d0064;
         /**  Changelog 1 
+ Changelog 1 
+ Changelog 1 
+ Changelog 1 
+ Changelog 1 
+ Changelog 1 
+ Changelog 1 
+ Changelog 1 
+ Changelog 1 
+ Changelog 1 
+ Changelog 1 
+ Changelog 1 
+ Changelog 1 
+ Changelog 1 
+ Changelog 1 
+ Changelog 1 
+ Changelog 1 
+ Changelog 1 
+ Changelog 1 
+ Changelog 1 
+ Changelog 1 
  Changelog 1 
          */
         public static final int cl_list_1=0x7f0d0068;
@@ -1549,10 +1729,130 @@ containing a value of this type.
 			 \n = new line
 		 	 &#8226; = bullets 
  Changelog 2 
+ ***************************** NOTES *****************************
+			 \n = new line
+		 	 &#8226; = bullets 
+ Changelog 2 
+ ***************************** NOTES *****************************
+			 \n = new line
+		 	 &#8226; = bullets 
+ Changelog 2 
+ ***************************** NOTES *****************************
+			 \n = new line
+		 	 &#8226; = bullets 
+ Changelog 2 
+ ***************************** NOTES *****************************
+			 \n = new line
+		 	 &#8226; = bullets 
+ Changelog 2 
+ ***************************** NOTES *****************************
+			 \n = new line
+		 	 &#8226; = bullets 
+ Changelog 2 
+ ***************************** NOTES *****************************
+			 \n = new line
+		 	 &#8226; = bullets 
+ Changelog 2 
+ ***************************** NOTES *****************************
+			 \n = new line
+		 	 &#8226; = bullets 
+ Changelog 2 
+ ***************************** NOTES *****************************
+			 \n = new line
+		 	 &#8226; = bullets 
+ Changelog 2 
+ ***************************** NOTES *****************************
+			 \n = new line
+		 	 &#8226; = bullets 
+ Changelog 2 
+ ***************************** NOTES *****************************
+			 \n = new line
+		 	 &#8226; = bullets 
+ Changelog 2 
+ ***************************** NOTES *****************************
+			 \n = new line
+		 	 &#8226; = bullets 
+ Changelog 2 
+ ***************************** NOTES *****************************
+			 \n = new line
+		 	 &#8226; = bullets 
+ Changelog 2 
+ ***************************** NOTES *****************************
+			 \n = new line
+		 	 &#8226; = bullets 
+ Changelog 2 
+ ***************************** NOTES *****************************
+			 \n = new line
+		 	 &#8226; = bullets 
+ Changelog 2 
+ ***************************** NOTES *****************************
+			 \n = new line
+		 	 &#8226; = bullets 
+ Changelog 2 
+ ***************************** NOTES *****************************
+			 \n = new line
+		 	 &#8226; = bullets 
+ Changelog 2 
+ ***************************** NOTES *****************************
+			 \n = new line
+		 	 &#8226; = bullets 
+ Changelog 2 
+ ***************************** NOTES *****************************
+			 \n = new line
+		 	 &#8226; = bullets 
+ Changelog 2 
+ ***************************** NOTES *****************************
+			 \n = new line
+		 	 &#8226; = bullets 
+ Changelog 2 
+ ***************************** NOTES *****************************
+			 \n = new line
+		 	 &#8226; = bullets 
+ Changelog 2 
          */
         public static final int cl_list_2=0x7f0d0067;
         public static final int close=0x7f0d0048;
         /**  ADW Stuff 
+ 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
+ ADW Stuff 
+ 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
+ ADW Stuff 
+ 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
+ ADW Stuff 
+ 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
+ ADW Stuff 
+ 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
+ ADW Stuff 
+ 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
+ ADW Stuff 
+ 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
+ ADW Stuff 
+ 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
+ ADW Stuff 
+ 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
+ ADW Stuff 
+ 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
+ ADW Stuff 
+ 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
+ ADW Stuff 
+ 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
+ ADW Stuff 
+ 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
+ ADW Stuff 
+ 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
+ ADW Stuff 
+ 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
+ ADW Stuff 
+ 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
+ ADW Stuff 
+ 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
+ ADW Stuff 
+ 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
+ ADW Stuff 
+ 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
+ ADW Stuff 
+ 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
+ ADW Stuff 
  1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
  ADW Stuff 
  1=top dots, 2=top slider, 3=bottom slider, 4=ics slider 
@@ -1574,11 +1874,71 @@ containing a value of this type.
  Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
  GridView Description 
  Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
+ GridView Description 
+ Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
+ GridView Description 
+ Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
+ GridView Description 
+ Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
+ GridView Description 
+ Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
+ GridView Description 
+ Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
+ GridView Description 
+ Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
+ GridView Description 
+ Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
+ GridView Description 
+ Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
+ GridView Description 
+ Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
+ GridView Description 
+ Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
+ GridView Description 
+ Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
+ GridView Description 
+ Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
+ GridView Description 
+ Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
+ GridView Description 
+ Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
+ GridView Description 
+ Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
+ GridView Description 
+ Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
+ GridView Description 
+ Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
+ GridView Description 
+ Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
+ GridView Description 
+ Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
+ GridView Description 
+ Note: Try not to pass the length of the description or you will have text layout issues on the Cards 
          */
         public static final int desc_oss=0x7f0d004b;
         public static final int desc_rate=0x7f0d0060;
         public static final int desc_request=0x7f0d0052;
         /**  Unused Strings: You CAN Delete these if you use the default setup 
+ Unused Strings: You CAN Delete these if you use the default setup 
+ Unused Strings: You CAN Delete these if you use the default setup 
+ Unused Strings: You CAN Delete these if you use the default setup 
+ Unused Strings: You CAN Delete these if you use the default setup 
+ Unused Strings: You CAN Delete these if you use the default setup 
+ Unused Strings: You CAN Delete these if you use the default setup 
+ Unused Strings: You CAN Delete these if you use the default setup 
+ Unused Strings: You CAN Delete these if you use the default setup 
+ Unused Strings: You CAN Delete these if you use the default setup 
+ Unused Strings: You CAN Delete these if you use the default setup 
+ Unused Strings: You CAN Delete these if you use the default setup 
+ Unused Strings: You CAN Delete these if you use the default setup 
+ Unused Strings: You CAN Delete these if you use the default setup 
+ Unused Strings: You CAN Delete these if you use the default setup 
+ Unused Strings: You CAN Delete these if you use the default setup 
+ Unused Strings: You CAN Delete these if you use the default setup 
+ Unused Strings: You CAN Delete these if you use the default setup 
+ Unused Strings: You CAN Delete these if you use the default setup 
+ Unused Strings: You CAN Delete these if you use the default setup 
+ Unused Strings: You CAN Delete these if you use the default setup 
  Unused Strings: You CAN Delete these if you use the default setup 
          */
         public static final int desc_share=0x7f0d005f;
@@ -1593,6 +1953,26 @@ containing a value of this type.
         public static final int donate=0x7f0d003d;
         /**  Dummy Content 
  Dummy Content 
+ Dummy Content 
+ Dummy Content 
+ Dummy Content 
+ Dummy Content 
+ Dummy Content 
+ Dummy Content 
+ Dummy Content 
+ Dummy Content 
+ Dummy Content 
+ Dummy Content 
+ Dummy Content 
+ Dummy Content 
+ Dummy Content 
+ Dummy Content 
+ Dummy Content 
+ Dummy Content 
+ Dummy Content 
+ Dummy Content 
+ Dummy Content 
+ Dummy Content 
          */
         public static final int dummy_desc=0x7f0d005e;
         public static final int dynasty_app=0x7f0d0039;
@@ -1601,6 +1981,26 @@ containing a value of this type.
         public static final int error_start_desc=0x7f0d005c;
         public static final int error_start_title=0x7f0d005b;
         /**  Applied Toast Messages 
+ Applied Toast Messages 
+ Applied Toast Messages 
+ Applied Toast Messages 
+ Applied Toast Messages 
+ Applied Toast Messages 
+ Applied Toast Messages 
+ Applied Toast Messages 
+ Applied Toast Messages 
+ Applied Toast Messages 
+ Applied Toast Messages 
+ Applied Toast Messages 
+ Applied Toast Messages 
+ Applied Toast Messages 
+ Applied Toast Messages 
+ Applied Toast Messages 
+ Applied Toast Messages 
+ Applied Toast Messages 
+ Applied Toast Messages 
+ Applied Toast Messages 
+ Applied Toast Messages 
  Applied Toast Messages 
          */
         public static final int finish_apply=0x7f0d001d;
@@ -1614,12 +2014,52 @@ containing a value of this type.
         public static final int holo_market=0x7f0d0020;
         /**  More OverFlow Stuff 
  More OverFlow Stuff 
+ More OverFlow Stuff 
+ More OverFlow Stuff 
+ More OverFlow Stuff 
+ More OverFlow Stuff 
+ More OverFlow Stuff 
+ More OverFlow Stuff 
+ More OverFlow Stuff 
+ More OverFlow Stuff 
+ More OverFlow Stuff 
+ More OverFlow Stuff 
+ More OverFlow Stuff 
+ More OverFlow Stuff 
+ More OverFlow Stuff 
+ More OverFlow Stuff 
+ More OverFlow Stuff 
+ More OverFlow Stuff 
+ More OverFlow Stuff 
+ More OverFlow Stuff 
+ More OverFlow Stuff 
+ More OverFlow Stuff 
          */
         public static final int icon_share=0x7f0d003a;
         public static final int later=0x7f0d0044;
         public static final int launcher_adw=0x7f0d0056;
         public static final int launcher_al=0x7f0d0057;
         /**  Launcher Dialog 
+ Launcher Dialog 
+ Launcher Dialog 
+ Launcher Dialog 
+ Launcher Dialog 
+ Launcher Dialog 
+ Launcher Dialog 
+ Launcher Dialog 
+ Launcher Dialog 
+ Launcher Dialog 
+ Launcher Dialog 
+ Launcher Dialog 
+ Launcher Dialog 
+ Launcher Dialog 
+ Launcher Dialog 
+ Launcher Dialog 
+ Launcher Dialog 
+ Launcher Dialog 
+ Launcher Dialog 
+ Launcher Dialog 
+ Launcher Dialog 
  Launcher Dialog 
          */
         public static final int launcher_apex=0x7f0d0053;
@@ -1630,9 +2070,69 @@ containing a value of this type.
   0=None, 1=3buttons, 2=5buttons, 3=1button 
  Force the theme to use an specific dock style 
   0=None, 1=3buttons, 2=5buttons, 3=1button 
+ Force the theme to use an specific dock style 
+  0=None, 1=3buttons, 2=5buttons, 3=1button 
+ Force the theme to use an specific dock style 
+  0=None, 1=3buttons, 2=5buttons, 3=1button 
+ Force the theme to use an specific dock style 
+  0=None, 1=3buttons, 2=5buttons, 3=1button 
+ Force the theme to use an specific dock style 
+  0=None, 1=3buttons, 2=5buttons, 3=1button 
+ Force the theme to use an specific dock style 
+  0=None, 1=3buttons, 2=5buttons, 3=1button 
+ Force the theme to use an specific dock style 
+  0=None, 1=3buttons, 2=5buttons, 3=1button 
+ Force the theme to use an specific dock style 
+  0=None, 1=3buttons, 2=5buttons, 3=1button 
+ Force the theme to use an specific dock style 
+  0=None, 1=3buttons, 2=5buttons, 3=1button 
+ Force the theme to use an specific dock style 
+  0=None, 1=3buttons, 2=5buttons, 3=1button 
+ Force the theme to use an specific dock style 
+  0=None, 1=3buttons, 2=5buttons, 3=1button 
+ Force the theme to use an specific dock style 
+  0=None, 1=3buttons, 2=5buttons, 3=1button 
+ Force the theme to use an specific dock style 
+  0=None, 1=3buttons, 2=5buttons, 3=1button 
+ Force the theme to use an specific dock style 
+  0=None, 1=3buttons, 2=5buttons, 3=1button 
+ Force the theme to use an specific dock style 
+  0=None, 1=3buttons, 2=5buttons, 3=1button 
+ Force the theme to use an specific dock style 
+  0=None, 1=3buttons, 2=5buttons, 3=1button 
+ Force the theme to use an specific dock style 
+  0=None, 1=3buttons, 2=5buttons, 3=1button 
+ Force the theme to use an specific dock style 
+  0=None, 1=3buttons, 2=5buttons, 3=1button 
+ Force the theme to use an specific dock style 
+  0=None, 1=3buttons, 2=5buttons, 3=1button 
+ Force the theme to use an specific dock style 
+  0=None, 1=3buttons, 2=5buttons, 3=1button 
+ Force the theme to use an specific dock style 
+  0=None, 1=3buttons, 2=5buttons, 3=1button 
          */
         public static final int main_dock_style=0x7f0d0019;
         /**  Misc Stuff 
+ Misc Stuff 
+ Misc Stuff 
+ Misc Stuff 
+ Misc Stuff 
+ Misc Stuff 
+ Misc Stuff 
+ Misc Stuff 
+ Misc Stuff 
+ Misc Stuff 
+ Misc Stuff 
+ Misc Stuff 
+ Misc Stuff 
+ Misc Stuff 
+ Misc Stuff 
+ Misc Stuff 
+ Misc Stuff 
+ Misc Stuff 
+ Misc Stuff 
+ Misc Stuff 
+ Misc Stuff 
  Misc Stuff 
          */
         public static final int more_dev=0x7f0d003f;
@@ -1648,10 +2148,50 @@ containing a value of this type.
         public static final int submit=0x7f0d0034;
         /**  This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
  This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
+ This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
+ This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
+ This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
+ This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
+ This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
+ This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
+ This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
+ This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
+ This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
+ This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
+ This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
+ This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
+ This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
+ This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
+ This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
+ This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
+ This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
+ This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
+ This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
+ This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it 
          */
         public static final int theme_description=0x7f0d0017;
         public static final int theme_description_app=0x7f0d006e;
         /**  Apex Previews 
+ Apex Previews 
+ Apex Previews 
+ Apex Previews 
+ Apex Previews 
+ Apex Previews 
+ Apex Previews 
+ Apex Previews 
+ Apex Previews 
+ Apex Previews 
+ Apex Previews 
+ Apex Previews 
+ Apex Previews 
+ Apex Previews 
+ Apex Previews 
+ Apex Previews 
+ Apex Previews 
+ Apex Previews 
+ Apex Previews 
+ Apex Previews 
+ Apex Previews 
  Apex Previews 
          */
         public static final int theme_feature=0x7f0d0011;
@@ -1664,10 +2204,50 @@ containing a value of this type.
         public static final int theme_preview5=0x7f0d0016;
         /**  Go Launcher stuff 
  Go Launcher stuff 
+ Go Launcher stuff 
+ Go Launcher stuff 
+ Go Launcher stuff 
+ Go Launcher stuff 
+ Go Launcher stuff 
+ Go Launcher stuff 
+ Go Launcher stuff 
+ Go Launcher stuff 
+ Go Launcher stuff 
+ Go Launcher stuff 
+ Go Launcher stuff 
+ Go Launcher stuff 
+ Go Launcher stuff 
+ Go Launcher stuff 
+ Go Launcher stuff 
+ Go Launcher stuff 
+ Go Launcher stuff 
+ Go Launcher stuff 
+ Go Launcher stuff 
+ Go Launcher stuff 
          */
         public static final int theme_title=0x7f0d001a;
         public static final int title_about=0x7f0d0031;
         /**  GridView Titles 
+ GridView Titles 
+ GridView Titles 
+ GridView Titles 
+ GridView Titles 
+ GridView Titles 
+ GridView Titles 
+ GridView Titles 
+ GridView Titles 
+ GridView Titles 
+ GridView Titles 
+ GridView Titles 
+ GridView Titles 
+ GridView Titles 
+ GridView Titles 
+ GridView Titles 
+ GridView Titles 
+ GridView Titles 
+ GridView Titles 
+ GridView Titles 
+ GridView Titles 
  GridView Titles 
          */
         public static final int title_app=0x7f0d0026;
@@ -1679,6 +2259,26 @@ containing a value of this type.
         public static final int title_info=0x7f0d0027;
         /**  OverFlow Menu 
  OverFlow Menu 
+ OverFlow Menu 
+ OverFlow Menu 
+ OverFlow Menu 
+ OverFlow Menu 
+ OverFlow Menu 
+ OverFlow Menu 
+ OverFlow Menu 
+ OverFlow Menu 
+ OverFlow Menu 
+ OverFlow Menu 
+ OverFlow Menu 
+ OverFlow Menu 
+ OverFlow Menu 
+ OverFlow Menu 
+ OverFlow Menu 
+ OverFlow Menu 
+ OverFlow Menu 
+ OverFlow Menu 
+ OverFlow Menu 
+ OverFlow Menu 
          */
         public static final int title_new_icons=0x7f0d002d;
         public static final int title_rate=0x7f0d002e;
@@ -1687,9 +2287,49 @@ containing a value of this type.
         public static final int title_walls=0x7f0d0029;
         /**  Misc Labels 
  Misc Labels 
+ Misc Labels 
+ Misc Labels 
+ Misc Labels 
+ Misc Labels 
+ Misc Labels 
+ Misc Labels 
+ Misc Labels 
+ Misc Labels 
+ Misc Labels 
+ Misc Labels 
+ Misc Labels 
+ Misc Labels 
+ Misc Labels 
+ Misc Labels 
+ Misc Labels 
+ Misc Labels 
+ Misc Labels 
+ Misc Labels 
+ Misc Labels 
+ Misc Labels 
          */
         public static final int twitterme=0x7f0d0037;
         /**  Wallpaper window 
+ Wallpaper window 
+ Wallpaper window 
+ Wallpaper window 
+ Wallpaper window 
+ Wallpaper window 
+ Wallpaper window 
+ Wallpaper window 
+ Wallpaper window 
+ Wallpaper window 
+ Wallpaper window 
+ Wallpaper window 
+ Wallpaper window 
+ Wallpaper window 
+ Wallpaper window 
+ Wallpaper window 
+ Wallpaper window 
+ Wallpaper window 
+ Wallpaper window 
+ Wallpaper window 
+ Wallpaper window 
  Wallpaper window 
          */
         public static final int wall_apply=0x7f0d005d;

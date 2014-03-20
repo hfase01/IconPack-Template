@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+** Copyright 2013, HFase
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+-->
+
+<!-- Be sure to edit these strings according to how your requirements -->
+
+<resources>
+
+		<!-- This link will appear at the end of the theme description -->
+	<string name="app_link">https://play.google.com/store/apps/details?id=co.w44.h4rsh</string>
+	
+	<string name="developer_link">https://play.google.com/store/apps/developer?id=HFase</string>
+	<string name="developer_name">HFase</string>
+	<string name="dev_name">DEV NAME - HFase</string>
+	<string name="dev_bio_title">MORE ABOUT HFase</string>
+	
+	<string name="theme_description_app">"This is a simple square-icon theme."</string>
+	
+	<string name="theme_info">Thank YOU for your support!</string>
+	
+	<string name="dev_description">Specializes in - Icon Packs, Android Development, and System Administration.</string>
+	
+	<string name="dev_bio">Hans is just your normal nerd from Michigan that likes to bring out the best in his hardware by tweaking whatever possible. Jack of all trades, master of none he loves working with Android.</string>
+	
+	<string name="share_text">"ENTER_YOUR_TEXT_HERE. https://play.google.com/store/apps/details?id=co.w44.h4rsh 
+	    \n\n I PROMOTE MY APP HERE http://bit.ly/ZI34gC"</string>
+	<string name="email_subject">YOUR_EMAIL_SUBJECT_HERE</string>
+	
+</resources>
