@@ -34,7 +34,7 @@
 	<bool name="config_apexskin">true</bool>
 	<bool name="config_iconpack">true</bool>
 		<!-- This string shows up inside the setting to Apply the theme on Apex Launcher. I don't recommend changing it -->
-	<string name="theme_description">"Open this theme from the app drawer to change wallpaper, find me on social sites, rate theme, or just to check out my other themes!"</string>
+	<string name="theme_description">"Obrir aquest tema des del calaix d&#8217;aplicació per canviar el paper pintat, em trobaran en les xarxes socials, el tema de tarifes, o simplement per comprovar cap a fora els meus altres temes!"</string>
   	
 		<!-- ADW Stuff -->
 		<!-- 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider -->
@@ -45,11 +45,9 @@
 	
   		<!-- Go Launcher stuff -->
 	<string name="theme_title">H4RSH</string>
-	<string name="theme_info">A harsh abstract theme for Android.</string>
-  	<bool name="config_iconpack">true</bool>
+	<string name="theme_info">H4rsh resum tema per Android.</string>
 	<bool name="enableIconPack">true</bool>
 	<bool name="enableDockPack">false</bool>
-	<string name="theme_title">H4RSH</string>
 	<string name="go_applied">Gràcies per utilitzar H4RSH.</string>
 		
 </resources>
