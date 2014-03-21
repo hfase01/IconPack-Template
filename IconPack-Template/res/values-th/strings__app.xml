@@ -27,7 +27,7 @@
 	<string name="holo_market">Holo Launcher is not installed on your device. Redirecting to the Play Store!</string>
 	<string name="adw_market">ADW Launcher is not installed on your device. Redirecting to the Play Store!</string>
 	<string name="al_market">Action Launcher is not installed on your device. Redirecting to the Play Store!</string>
-	<string name="go_market">AWESOME! Go Launcher is not installed on your device. Redirecting to Apex Launcher!</string>
+	<string name="go_market">Go Launcher is not installed on your device. Redirecting to Apex Launcher!</string>
 	<string name="next_market">Next Launcher is not installed on your device. Redirecting to the Play Store!</string>
 	<string name="not_supported">Currently Not Supported. Please Apply through your launcher settings.</string>
 	
@@ -37,7 +37,7 @@
 	<string name="title_apply">Apply Theme</string>
 	<string name="title_walls">Wallpapers</string>
 	<string name="title_community">G+ Community</string>
-	<string name="title_gplus">My Google+</string>
+	<string name="title_gplus">Developer</string>
 	<string name="title_request">Request Icons</string>
 	
 		<!-- OverFlow Menu -->

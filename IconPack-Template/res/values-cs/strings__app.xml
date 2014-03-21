@@ -21,27 +21,27 @@
 <resources>
     
     	<!-- Applied Toast Messages -->
-	<string name="finish_apply">Select your options and press Apply to finalize!</string>
-	<string name="apex_market">Apex Launcher is not installed on your device. Redirecting to the Play Store!</string>
-	<string name="nova_market">Nova Launcher is not installed on your device. Redirecting to the Play Store!</string>
-	<string name="holo_market">Holo Launcher is not installed on your device. Redirecting to the Play Store!</string>
-	<string name="adw_market">ADW Launcher is not installed on your device. Redirecting to the Play Store!</string>
-	<string name="al_market">Action Launcher is not installed on your device. Redirecting to the Play Store!</string>
-	<string name="go_market">AWESOME! Go Launcher is not installed on your device. Redirecting to Apex Launcher!</string>
-	<string name="next_market">Next Launcher is not installed on your device. Redirecting to the Play Store!</string>
-	<string name="not_supported">Currently Not Supported. Please Apply through your launcher settings.</string>
+	<string name="finish_apply">Vyberte své možnosti a stiskněte Použít dokončit!</string>
+	<string name="apex_market">Apex Launcher není nainstalován na vašem zařízení. Přesměrování na Play Store!</string>
+	<string name="nova_market">Nova Launcher není nainstalován na vašem zařízení. Přesměrování na Play Store!</string>
+	<string name="holo_market">Holo Launcher není nainstalován na vašem zařízení. Přesměrování na Play Store!</string>
+	<string name="adw_market">ADW Launcher není nainstalován na vašem zařízení. Přesměrování na Play Store!</string>
+	<string name="al_market">Action Launcher není nainstalován na vašem zařízení. Přesměrování na Play Store!</string>
+	<string name="go_market">Go Launcher není nainstalován na vašem zařízení. Přesměrování na Play Store!</string>
+	<string name="next_market">Next Launcher není nainstalován na vašem zařízení. Přesměrování na Play Store</string>
+	<string name="not_supported">Současné době nejsou podporovány. Prosím Aplikujte pomocí nastavení nosných zařízení.</string>
 	
 		<!-- GridView Titles -->
 	<string name="title_app">W44CO</string>
-	<string name="title_info">Theme Info</string>
-	<string name="title_apply">Apply Theme</string>
-	<string name="title_walls">Wallpapers</string>
-	<string name="title_community">G+ Community</string>
-	<string name="title_gplus">My Google+</string>
-	<string name="title_request">Request Icons</string>
+	<string name="title_info">Téma Informace</string>
+	<string name="title_apply">Používat Téma</string>
+	<string name="title_walls">Pozadí</string>
+	<string name="title_community">Společenství</string>
+	<string name="title_gplus">Vývojka</string>
+	<string name="title_request">Žádost ikony</string>
 	
 		<!-- OverFlow Menu -->
-	<string name="title_new_icons">Newly Added</string>
+	<string name="title_new_icons">Nově přidané</string>
 	<string name="title_rate">Rate Theme</string>
 	<string name="title_share">Share Theme</string>
 	<string name="title_email">Email Developer</string>

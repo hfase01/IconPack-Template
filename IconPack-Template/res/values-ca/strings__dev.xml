@@ -36,8 +36,8 @@
 	
 	<string name="dev_bio">Hans és només la seva estudiós normal Michigan a qui li agrada treure el millor del seu maquinari. Jack de tots els oficis, mestre de res que li encanta treballar amb Android.</string>
 	
-	<string name="share_text">"ENTER_YOUR_TEXT_HERE. https://play.google.com/store/apps/details?id=co.w44.h4rsh 
-	    \n\n I PROMOTE MY APP HERE http://bit.ly/ZI34gC"</string>
-	<string name="email_subject">YOUR_EMAIL_SUBJECT_HERE</string>
+	<string name="share_text">"This is a great android theme!. https://play.google.com/store/apps/details?id=co.w44.h4rsh
+	    "</string>
+	<string name="email_subject">RE: H4RSH</string>
 	
 </resources>

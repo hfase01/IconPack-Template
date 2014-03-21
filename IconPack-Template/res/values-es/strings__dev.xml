@@ -36,8 +36,8 @@
 	
 	<string name="dev_bio">Hans es sólo su empollón normal desde Michigan al que le gusta sacar lo mejor de su hardware mediante la deformación de lo que sea posible. Jack de todos los oficios, maestro de nada que le encanta trabajar con Android.</string>
 	
-	<string name="share_text">"ENTER_YOUR_TEXT_HERE. https://play.google.com/store/apps/details?id=co.w44.h4rsh 
-	    \n\n I PROMOTE MY APP HERE http://bit.ly/ZI34gC"</string>
+	<string name="share_text">"This is a great android theme!. https://play.google.com/store/apps/details?id=co.w44.h4rsh
+	    "</string>
 	<string name="email_subject">Correo Electrónico Asunto Aquí</string>
 	
 </resources>
