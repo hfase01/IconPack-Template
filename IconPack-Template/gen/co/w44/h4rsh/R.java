@@ -1572,7 +1572,6 @@ containing a value of this type.
  App Check Stuff 
  App Check Stuff 
  App Check Stuff 
- App Check Stuff 
          */
         public static final int alert_start_title=0x7f0d0059;
         public static final int apex_market=0x7f0d001e;

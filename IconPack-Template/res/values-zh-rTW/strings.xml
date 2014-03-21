@@ -46,10 +46,8 @@
   		<!-- Go Launcher stuff -->
 	<string name="theme_title">H4RSH</string>
 	<string name="theme_info">A harsh abstract theme for Android.</string>
-  	<bool name="config_iconpack">true</bool>
 	<bool name="enableIconPack">true</bool>
 	<bool name="enableDockPack">false</bool>
-	<string name="theme_title">H4RSH</string>
 	<string name="go_applied">Thanks for using H4RSH. Your theme is being set!</string>
 		
 </resources>
