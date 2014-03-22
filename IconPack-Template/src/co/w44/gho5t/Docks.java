@@ -1,4 +1,4 @@
-package co.w44.h4rsh;
+package co.w44.gho5t;
 
 
 import android.content.Context;
@@ -13,7 +13,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.ListView;
 
-import co.w44.h4rsh.R;
+import co.w44.gho5t.R;
 import com.actionbarsherlock.app.SherlockActivity;
 
 import java.util.ArrayList;

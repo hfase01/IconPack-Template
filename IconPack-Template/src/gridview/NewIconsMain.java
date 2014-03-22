@@ -16,7 +16,7 @@
 
 package gridview;
 
-import co.w44.h4rsh.R;
+import co.w44.gho5t.R;
 import android.os.Bundle;
 
 import com.actionbarsherlock.app.SherlockFragmentActivity;

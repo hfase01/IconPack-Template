@@ -16,7 +16,7 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.ViewFlipper;
 
-import co.w44.h4rsh.R;
+import co.w44.gho5t.R;
 
 public class AboutThemeFragment extends AboutThemeMain {
 	

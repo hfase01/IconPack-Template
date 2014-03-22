@@ -1,4 +1,4 @@
-package co.w44.h4rsh;
+package co.w44.gho5t;
 
 
 import java.util.ArrayList;
@@ -18,6 +18,7 @@ import android.widget.BaseAdapter;
 import android.widget.GridView;
 import android.widget.ImageView;
 
+import co.w44.gho5t.R;
 import com.actionbarsherlock.app.SherlockActivity;
 
 public class Icons extends SherlockActivity implements OnItemClickListener {

@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import co.w44.h4rsh.R;
+import co.w44.gho5t.R;
 
 public class LauncherAdapter extends BaseAdapter{
 	private Context context;

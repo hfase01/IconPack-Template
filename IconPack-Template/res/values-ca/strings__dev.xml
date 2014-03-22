@@ -21,7 +21,7 @@
 <resources>
 
 		<!-- This link will appear at the end of the theme description -->
-	<string name="app_link">https://play.google.com/store/apps/details?id=co.w44.h4rsh</string>
+	<string name="app_link">https://play.google.com/store/apps/details?id=co.w44.gho5t</string>
 	
 	<string name="developer_link">https://play.google.com/store/apps/developer?id=HFase</string>
 	<string name="developer_name">HFase</string>
@@ -36,8 +36,8 @@
 	
 	<string name="dev_bio">Hans és només la seva estudiós normal Michigan a qui li agrada treure el millor del seu maquinari. Jack de tots els oficis, mestre de res que li encanta treballar amb Android.</string>
 	
-	<string name="share_text">"This is a great android theme!. https://play.google.com/store/apps/details?id=co.w44.h4rsh
+	<string name="share_text">"This is a great android theme!. https://play.google.com/store/apps/details?id=co.w44.gho5t
 	    "</string>
-	<string name="email_subject">RE: H4RSH</string>
+	<string name="email_subject">RE: GHO5T</string>
 	
 </resources>

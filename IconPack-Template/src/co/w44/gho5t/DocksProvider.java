@@ -1,4 +1,4 @@
-package co.w44.h4rsh;
+package co.w44.gho5t;
 
 import android.content.ContentProvider;
 import android.content.ContentValues;

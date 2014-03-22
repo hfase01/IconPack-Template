@@ -1,4 +1,4 @@
-package co.w44.h4rsh;
+package co.w44.gho5t;
 
 import android.graphics.Typeface;
 import android.os.Bundle;
@@ -13,7 +13,7 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.ViewFlipper;
 
-import co.w44.h4rsh.R;
+import co.w44.gho5t.R;
 import com.actionbarsherlock.app.SherlockActivity;
 import com.google.analytics.tracking.android.EasyTracker;
 

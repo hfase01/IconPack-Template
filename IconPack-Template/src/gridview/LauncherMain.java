@@ -8,7 +8,7 @@ import com.actionbarsherlock.view.Window;
 import com.google.analytics.tracking.android.EasyTracker;
 
 import fragments.LauncherFragment;
-import co.w44.h4rsh.R;
+import co.w44.gho5t.R;
 
 public class LauncherMain extends SherlockFragmentActivity {
 

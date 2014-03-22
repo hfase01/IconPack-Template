@@ -35,8 +35,8 @@ import android.os.Handler;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
-import co.w44.h4rsh.AboutDev;
-import co.w44.h4rsh.R;
+import co.w44.gho5t.AboutDev;
+import co.w44.gho5t.R;
 import com.google.analytics.tracking.android.EasyTracker;
 
 import com.actionbarsherlock.app.SherlockFragmentActivity;
@@ -44,7 +44,7 @@ import com.actionbarsherlock.view.Menu;
 import com.actionbarsherlock.view.MenuInflater;
 import com.actionbarsherlock.view.MenuItem;
 
-public class H4rsh extends SherlockFragmentActivity {
+public class Gho5t extends SherlockFragmentActivity {
 	
 	private SharedPreferences prefs;
 	private GlassActionBarHelper helper;
@@ -100,7 +100,7 @@ public class H4rsh extends SherlockFragmentActivity {
 	
 	public Dialog getChangelog()
 	 {
-	 	final Dialog CDialog = new Dialog(H4rsh.this);
+	 	final Dialog CDialog = new Dialog(Gho5t.this);
 	 	CDialog.setTitle(getResources().getString(R.string.changelog_title));
 	 	CDialog.setContentView(R.layout.changelog);
 	 	CDialog.setCanceledOnTouchOutside(true);
@@ -136,7 +136,7 @@ public class H4rsh extends SherlockFragmentActivity {
         	case R.id.more:
         		return true;
 	        case R.id.newIconsButton:
-				Intent newIcons = new Intent(H4rsh.this, NewIconsMain.class);
+				Intent newIcons = new Intent(Gho5t.this, NewIconsMain.class);
 				startActivity(newIcons);
 	            break;
             case R.id.shareButton:
@@ -147,7 +147,7 @@ public class H4rsh extends SherlockFragmentActivity {
                 break;
             case R.id.rateButton:
             	Intent rate = new Intent(Intent.ACTION_VIEW).setData(Uri.parse
-            			("market://details?id=co.w44.h4rsh"));
+            			("market://details?id=co.w44.gho5t"));
             	startActivity(rate);
                 break;
             case R.id.emailButton:
@@ -159,7 +159,7 @@ public class H4rsh extends SherlockFragmentActivity {
 				
                 break;
             case R.id.aboutButton:
-				Intent about = new Intent(H4rsh.this, AboutDev.class);
+				Intent about = new Intent(Gho5t.this, AboutDev.class);
 				startActivity(about);
                 break;
             case R.id.donateButton:

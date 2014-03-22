@@ -24,7 +24,7 @@
 	    android:orientation="vertical"
 	    android:padding="@dimen/list_icon"
     	android:gravity="center" 
-    	tools:context="gridview.H4rsh" >
+    	tools:context="gridview.Gho5t" >
 
 			<helper.TouchHighlightImageButton
 			    android:id="@+id/thumb_button"
