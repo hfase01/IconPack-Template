@@ -22,8 +22,8 @@
 	<string name="changelog_title">Changelog</string>
 	
 		<!-- Version Number: Add more or remove some -->
-	<string name="changelog_1">Version 1.0.0</string>
-	<string name="changelog_2">Version 1.0.1</string>
+	<string name="changelog_1">Version 1.0.1</string>
+	<string name="changelog_2">Version 1.0.2</string>
 	
 
 	
@@ -31,18 +31,11 @@
 			 \n = new line
 		 	 &#8226; = bullets -->
 		 	 
-	<!-- Changelog 2 -->
-		<string name="cl_list_2">&#8226; ChangeLog Update
-		    &#8226; Need Moar Log
-			\n&#8226; SO AWESOME
-			\n&#8226; Much Update, WOW	    
-		</string>
 		 	 
 	<!-- Changelog 1 -->
 		<string name="cl_list_1">&#8226; Initial Release
-		    &#8226; Supa-awesome
-			\n&#8226; With Pancakes
-			\n&#8226; And Bugs	    
+		    &#8226; 10+ Wallpapers
+			\n&#8226; Icons	    
 		</string>
 	
 							
