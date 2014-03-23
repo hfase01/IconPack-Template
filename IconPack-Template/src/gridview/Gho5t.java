@@ -135,10 +135,6 @@ public class Gho5t extends SherlockFragmentActivity {
         {
         	case R.id.more:
         		return true;
-	        case R.id.newIconsButton:
-				Intent newIcons = new Intent(Gho5t.this, NewIconsMain.class);
-				startActivity(newIcons);
-	            break;
             case R.id.shareButton:
         		Intent shareIntent = new Intent(Intent.ACTION_SEND);
         	    shareIntent.setType("text/plain");

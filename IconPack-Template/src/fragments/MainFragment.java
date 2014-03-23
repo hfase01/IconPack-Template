@@ -68,30 +68,26 @@ public class MainFragment extends SherlockFragment{
 		boolean tabletSize = getResources().getBoolean(R.bool.isTablet);
 		if (tabletSize) {
 			gridView = (ScrollGridView)getView().findViewById(R.id.grid);
-			listOfStuff.add(new AdapterItem(getResources().getString (R.string.title_new_icons), 
-					getResources().getString (R.string.desc_new_icons), 0));
 			listOfStuff.remove(new AdapterItem(getResources().getString (R.string.title_info), 
-					getResources().getString (R.string.desc_info), 1));
+					getResources().getString (R.string.desc_info), 0));
 			listOfStuff.add(new AdapterItem(getResources().getString (R.string.title_apply), 
-					getResources().getString (R.string.desc_apply), 2));
+					getResources().getString (R.string.desc_apply), 1));
 			listOfStuff.add(new AdapterItem(getResources().getString (R.string.title_walls), 
-					getResources().getString (R.string.desc_walls), 3));
+					getResources().getString (R.string.desc_walls), 2));
 			listOfStuff.add(new AdapterItem(getResources().getString (R.string.title_community), 
-					getResources().getString (R.string.desc_community), 4));
+					getResources().getString (R.string.desc_community), 3));
 
 			
 		} else {
 			gridView = (ScrollGridView)getView().findViewById(R.id.grid);
-			listOfStuff.add(new AdapterItem(getResources().getString (R.string.title_new_icons), 
-					getResources().getString (R.string.desc_new_icons), 0));
 			listOfStuff.add(new AdapterItem(getResources().getString (R.string.title_info), 
-					getResources().getString (R.string.desc_info), 1));
+					getResources().getString (R.string.desc_info), 0));
 			listOfStuff.add(new AdapterItem(getResources().getString (R.string.title_apply), 
-					getResources().getString (R.string.desc_apply), 2));
+					getResources().getString (R.string.desc_apply), 1));
 			listOfStuff.add(new AdapterItem(getResources().getString (R.string.title_walls), 
-					getResources().getString (R.string.desc_walls), 3));
+					getResources().getString (R.string.desc_walls), 2));
 			listOfStuff.add(new AdapterItem(getResources().getString (R.string.title_community), 
-					getResources().getString (R.string.desc_community), 4));
+					getResources().getString (R.string.desc_community), 3));
 		}
 
 		/**
