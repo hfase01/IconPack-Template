@@ -96,20 +96,12 @@ public class LauncherAdapter extends BaseAdapter{
 			case 5:
 				/** Use this first option for the newer single column look **/
 				holder.title.setTextColor(context.getResources().getColor(R.color.gray_light2));
-				holder.launcher_Image.setImageResource(R.mipmap.banner_go);
-				/** Use this second option for the traditional Dialog popup **/
-				//holder.title.setTextColor(context.getResources().getColor(R.color.black));
-				//holder.launcher_Image.setImageResource(R.mipmap.icon_go);
-				break;
-			case 6:
-				/** Use this first option for the newer single column look **/
-				holder.title.setTextColor(context.getResources().getColor(R.color.gray_light2));
 				holder.launcher_Image.setImageResource(R.mipmap.banner_next);
 				/** Use this second option for the traditional Dialog popup **/
 				//holder.title.setTextColor(context.getResources().getColor(R.color.black));
 				//holder.launcher_Image.setImageResource(R.mipmap.icon_next);
 				break;
-			case 7:
+			case 6:
 				/** Use this first option for the newer single column look **/
 				holder.title.setTextColor(context.getResources().getColor(R.color.gray_light2));
 				holder.launcher_Image.setImageResource(R.mipmap.banner_cancel);

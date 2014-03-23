@@ -109,19 +109,15 @@ public class MainFragment extends SherlockFragment{
 					if (tabletSize) { // for tablets
 						
 						switch (position) {
-			    		case 0:
-			    			Intent requestIcons = new Intent(getSherlockActivity(), NewIconsMain.class);
-			    			startActivity(requestIcons);
-			    			break;
-						case 1:
+						case 0:
 							Intent launcher = new Intent(getSherlockActivity(), LauncherMain.class);
 							startActivity(launcher);
 			        		break;
-						case 2:
+						case 1:
 							Intent wall = new Intent(getSherlockActivity(), Wallpaper.class);
 							startActivity(wall);
 			        		break;
-						case 3:
+						case 2:
 							/** 
 							 ** This launches my community on G+
 							 ** Please leave this link in here for others to join. Thank You!
@@ -133,23 +129,19 @@ public class MainFragment extends SherlockFragment{
 		}	
 				} else {	// for phones
 					switch (position) {
-		    		case 0:
-		    			Intent requestIcons = new Intent(getSherlockActivity(), NewIconsMain.class);
-		    			startActivity(requestIcons);
-		    			break;
-					case 1:
+					case 0:
 						Intent aboutTheme = new Intent(getSherlockActivity(), AboutThemeActivity.class);
 						startActivity(aboutTheme);
 		        		break;
-					case 2:
+					case 1:
 						Intent launcher = new Intent(getSherlockActivity(), LauncherMain.class);
 						startActivity(launcher);
 		        		break;
-					case 3:
+					case 2:
 						Intent wall = new Intent(getSherlockActivity(), Wallpaper.class);
 						startActivity(wall);
 		        		break;
-					case 4:
+					case 3:
 						/** 
 						 ** This launches my community on G+
 						 ** Please leave this link in here for others to join. Thank You!

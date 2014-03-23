@@ -48,9 +48,8 @@ public class LauncherFragment extends SherlockFragment {
 		launcherStuff.add(new LauncherItem("Holo", 2));
 		launcherStuff.add(new LauncherItem("ADW", 3));
 		launcherStuff.add(new LauncherItem("Action", 4));
-		launcherStuff.add(new LauncherItem("Go", 5));
-		launcherStuff.add(new LauncherItem("Next", 6));
-		launcherStuff.add(new LauncherItem("Cancel", 7));
+		launcherStuff.add(new LauncherItem("Next", 5));
+		launcherStuff.add(new LauncherItem("Cancel", 6));
 
 		LauncherAdapter adapter = new LauncherAdapter(getActivity(),
 				launcherStuff);
@@ -166,30 +165,6 @@ public class LauncherFragment extends SherlockFragment {
 					}
 					break;
 				case 5:
-					Intent goApply = getSherlockActivity().getPackageManager().getLaunchIntentForPackage(
-							"com.gau.go.launcherex");
-					if (goApply != null) {
-						Intent go = new Intent("com.gau.go.launcherex.MyThemes.mythemeaction");
-		                go.putExtra("type",1);
-		                go.putExtra("pkgname", getSherlockActivity().getPackageName());
-		                getSherlockActivity().sendBroadcast(go);
-						Toast appliedGo = Toast
-		                .makeText(getSherlockActivity().getBaseContext(), getResources().getString
-		                		(R.string.go_applied), Toast.LENGTH_LONG);
-						appliedGo.show();
-						startActivity(goApply); 
-				   } else {
-						Intent goMarket = new Intent(Intent.ACTION_VIEW);
-						goMarket.setData(Uri.parse("market://details?id=com.anddoes.launcher"));
-						startActivity(goMarket);
-						
-						Toast failedGo = Toast
-						.makeText(getSherlockActivity().getBaseContext(), getResources().getString 
-								(R.string.go_market), Toast.LENGTH_SHORT);
-						failedGo.show();
-					}
-					break;
-				case 6:
 					Toast failedNext = Toast.makeText(getSherlockActivity().getBaseContext(),
 							getResources().getString (R.string.not_supported),
 							Toast.LENGTH_LONG);
@@ -198,7 +173,7 @@ public class LauncherFragment extends SherlockFragment {
 				/* This is your cancel button
 				 * Always leave this as the last item
 				 */
-				case 7:
+				case 6:
 					((Activity) getSherlockActivity()).finish();
 					break;
 				}
