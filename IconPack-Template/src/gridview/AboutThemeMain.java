@@ -1,6 +1,6 @@
 package gridview;
 
-import co.w44.gho5t.R;
+import co.w44.solariz3d.R;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;

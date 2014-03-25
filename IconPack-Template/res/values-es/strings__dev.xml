@@ -21,7 +21,7 @@
 <resources>
 
 		<!-- This link will appear at the end of the theme description -->
-	<string name="app_link">https://play.google.com/store/apps/details?id=co.w44.gho5t</string>
+	<string name="app_link">https://play.google.com/store/apps/details?id=co.w44.solariz3d</string>
 	
 	<string name="developer_link">https://play.google.com/store/apps/developer?id=HFase</string>
 	<string name="developer_name">HFase</string>
@@ -36,7 +36,7 @@
 	
 	<string name="dev_bio">Hans es sólo su empollón normal desde Michigan al que le gusta sacar lo mejor de su hardware mediante la deformación de lo que sea posible. Jack de todos los oficios, maestro de nada que le encanta trabajar con Android.</string>
 	
-	<string name="share_text">"This is a great android theme!. https://play.google.com/store/apps/details?id=co.w44.gho5t
+	<string name="share_text">"This is a great android theme!. https://play.google.com/store/apps/details?id=co.w44.solariz3d
 	    "</string>
 	<string name="email_subject">Correo Electrónico Asunto Aquí</string>
 	

@@ -1,4 +1,4 @@
-package co.w44.gho5t;
+package co.w44.solariz3d;
 
 
 import android.content.Context;
@@ -13,7 +13,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.ListView;
 
-import co.w44.gho5t.R;
+import co.w44.solariz3d.R;
 import com.actionbarsherlock.app.SherlockActivity;
 
 import java.util.ArrayList;

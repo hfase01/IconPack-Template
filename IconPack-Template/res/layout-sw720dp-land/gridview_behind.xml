@@ -31,4 +31,4 @@
     android:dividerHeight="0dp"
     android:listSelector="@color/transparent"
     android:cacheColorHint="@color/transparent" 
-    tools:context="gridview.Gho5t"/>
+    tools:context="gridview.Solariz3d"/>

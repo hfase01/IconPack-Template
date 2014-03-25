@@ -1,4 +1,4 @@
-package co.w44.gho5t;
+package co.w44.solariz3d;
 
 import android.content.ContentProvider;
 import android.content.ContentValues;

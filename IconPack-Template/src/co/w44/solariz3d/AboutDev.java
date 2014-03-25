@@ -1,4 +1,4 @@
-package co.w44.gho5t;
+package co.w44.solariz3d;
 
 import android.content.Intent;
 import android.graphics.Typeface;
@@ -10,7 +10,7 @@ import android.view.WindowManager;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
-import co.w44.gho5t.R;
+import co.w44.solariz3d.R;
 import com.actionbarsherlock.app.SherlockActivity;
 import com.actionbarsherlock.view.Window;
 

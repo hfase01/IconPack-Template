@@ -19,8 +19,8 @@
 <resources>
 		<!-- Label for app name in launcher -->
 		<!-- Edit these two strings to match your theme name -->
-	<string name="app_name">GHO5T</string>
-	<string name="theme_name">nom del tema - GHO5T</string>
+	<string name="app_name">Solar </string>
+	<string name="theme_name">nom del tema - Solar </string>
 	
 		<!-- Apex Previews -->
 	<string name="theme_feature">theme_header</string>
@@ -44,10 +44,10 @@
 	<string name="main_dock_style">2</string>
 	
   		<!-- Go Launcher stuff -->
-	<string name="theme_title">GHO5T</string>
+	<string name="theme_title">Solar </string>
 	<string name="theme_info">H4rsh resum tema per Android.</string>
 	<bool name="enableIconPack">true</bool>
 	<bool name="enableDockPack">false</bool>
-	<string name="go_applied">Gràcies per utilitzar GHO5T.</string>
+	<string name="go_applied">Gràcies per utilitzar Solar .</string>
 		
 </resources>

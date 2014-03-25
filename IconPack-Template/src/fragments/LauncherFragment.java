@@ -3,7 +3,7 @@ package fragments;
 import java.util.ArrayList;
 import java.util.List;
 
-import co.w44.gho5t.R;
+import co.w44.solariz3d.R;
 import adapters.LauncherAdapter;
 import adapters.LauncherAdapter.LauncherItem;
 import android.app.Activity;
@@ -100,7 +100,7 @@ public class LauncherFragment extends SherlockFragment {
 					nova.setPackage(NOVA_PACKAGE);
 					nova.putExtra(EXTRA_ICON_THEME_TYPE, "GO");
 					nova.putExtra(EXTRA_ICON_THEME_PACKAGE,
-							"co.w44.gho5t");
+							"co.w44.solariz3d");
 					try {
 						startActivity(nova);
 					} catch (ActivityNotFoundException e) {
@@ -125,7 +125,7 @@ public class LauncherFragment extends SherlockFragment {
 				case 3:
 					Intent adw = new Intent("org.adw.launcher.SET_THEME");
 					adw.putExtra("org.adw.launcher.theme.NAME",
-							"co.w44.gho5t");
+							"co.w44.solariz3d");
 					try {
 						startActivity(Intent.createChooser(adw,
 								"activating theme..."));
@@ -148,7 +148,7 @@ public class LauncherFragment extends SherlockFragment {
 							"com.chrislacy.actionlauncher.pro");
 					if (al != null) {
 
-						String packageName = "co.w44.gho5t";
+						String packageName = "co.w44.solariz3d";
 						al.putExtra("apply_icon_pack", packageName);
 						startActivity(al);
 					} else {

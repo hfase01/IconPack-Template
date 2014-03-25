@@ -7,9 +7,9 @@ import helper.ScrollGridView;
 import java.util.ArrayList;
 import java.util.List;
 
-import co.w44.gho5t.AboutThemeActivity;
-import co.w44.gho5t.R;
-import co.w44.gho5t.Wallpaper;
+import co.w44.solariz3d.AboutThemeActivity;
+import co.w44.solariz3d.R;
+import co.w44.solariz3d.Wallpaper;
 import adapters.MainAdapter;
 import adapters.MainAdapter.AdapterItem;
 import android.content.ComponentName;

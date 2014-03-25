@@ -21,7 +21,7 @@
 <resources>
 
 		<!-- This link will appear at the end of the theme description -->
-	<string name="app_link">https://play.google.com/store/apps/details?id=co.w44.gho5t</string>
+	<string name="app_link">https://play.google.com/store/apps/details?id=co.w44.solariz3d</string>
 	
 	<string name="developer_link">https://play.google.com/store/apps/developer?id=HFase</string>
 	<string name="developer_name">HFase</string>
@@ -36,8 +36,8 @@
 	
 	<string name="dev_bio">Hans is just your normal nerd from Michigan that likes to bring out the best in his hardware by tweaking whatever possible. Jack of all trades, master of none he loves working with Android.</string>
 	
-	<string name="share_text">"This is a great android theme!. https://play.google.com/store/apps/details?id=co.w44.gho5t
+	<string name="share_text">"This is a great android theme!. https://play.google.com/store/apps/details?id=co.w44.solariz3d
 	    "</string>
-	<string name="email_subject">RE: GHO5T</string>
+	<string name="email_subject">RE: Solar </string>
 	
 </resources>

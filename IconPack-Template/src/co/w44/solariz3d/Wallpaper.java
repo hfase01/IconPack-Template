@@ -1,4 +1,4 @@
-package co.w44.gho5t;
+package co.w44.solariz3d;
 
 /**
  ** This is essentially a gallery view with custom animations
@@ -22,7 +22,7 @@ import android.widget.BaseAdapter;
 import android.widget.Gallery;
 import android.widget.ImageView;
 
-import co.w44.gho5t.R;
+import co.w44.solariz3d.R;
 import com.actionbarsherlock.app.SherlockActivity;
 import com.google.analytics.tracking.android.EasyTracker;
 

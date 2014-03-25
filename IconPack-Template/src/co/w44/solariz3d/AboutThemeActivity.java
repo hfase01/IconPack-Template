@@ -1,4 +1,4 @@
-package co.w44.gho5t;
+package co.w44.solariz3d;
 
 import android.graphics.Typeface;
 import android.os.Bundle;
@@ -13,7 +13,7 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.ViewFlipper;
 
-import co.w44.gho5t.R;
+import co.w44.solariz3d.R;
 import com.actionbarsherlock.app.SherlockActivity;
 import com.google.analytics.tracking.android.EasyTracker;
 

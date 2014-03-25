@@ -4,13 +4,13 @@
     <iconback img="iconback"/>
     <iconupon img="iconupon"/>
     <iconmask img="iconmask"/>
- 
-    <scale factor="1.00" />
+  
+    <scale factor="0.90" />
 
 	
 									<!-- ****************** 0123456789 ****************** -->
 									
-	<item component="ComponentInfo{co.w44.gho5t/gridview.Main}" drawable="icon" />
+	<item component="ComponentInfo{co.w44.solariz3d/gridview.Main}" drawable="icon" />
 
   	<!-- 14px -->
 	<item component="ComponentInfo{com.drummerGames.px14/com.ansca.corona.CoronaActivity}" drawable="fourteen" />
@@ -189,12 +189,12 @@
 	<item component="ComponentInfo{com.anddoes.notifier/com.anddoes.notifier.SettingsActivity}" drawable="apex_notifier" />
 	<!-- Apollo -->
 	<item component="ComponentInfo{com.andrew.apollo.play/com.andrew.apollo.ui.activities.HomeActivity}" drawable="apollo"/>
-	<item component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.activities.MusicLibrary}" drawable="apollo"/>
-	<item component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.activities.QueryBrowserActivity}" drawable="apollo"/>
-	<item component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.activities.AudioPlayerHolder}" drawable="apollo"/>
-	<item component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.activities.PlayExternal}" drawable="apollo"/>
-	<item component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.activities.TrackBrowser}" drawable="apollo"/>
-	<item component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.activities.PlayListDialog}" drawable="apollo"/>
+	<item component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.ui.activities.MusicLibrary}" drawable="apollo"/>
+	<item component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.ui.activities.QueryBrowserActivity}" drawable="apollo"/>
+	<item component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.ui.activities.AudioPlayerHolder}" drawable="apollo"/>
+	<item component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.ui.activities.PlayExternal}" drawable="apollo"/>
+	<item component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.ui.activities.TrackBrowser}" drawable="apollo"/>
+	<item component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.ui.activities.PlayListDialog}" drawable="apollo"/>
 	<item component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.menu.PlayListPicker}" drawable="apollo"/>
 	<!-- App2SD -->
 	<item component="ComponentInfo{com.a0soft.gphone.app2sd/com.a0soft.gphone.app2sd.free.MainWnd}" drawable="app2sd"/>
@@ -441,6 +441,9 @@
 	<!-- Camera -->
 	<item component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}" drawable="camera"/>
 	<item component="ComponentInfo{com.android.camera/com.android.camera.CameraEntry}" drawable="camera"/>
+	<item component="ComponentInfo{com.android.camera2/com.android.camera.CameraActivity}" drawable="camera"/>
+	<item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera"/>
+	<item component="ComponentInfo{com.android.camera2/com.android.camera.VideoCamera}" drawable="camera"/>
 	<item component="ComponentInfo{com.android.gallery3d/com.android.camera.CameraLauncher}" drawable="camera"/>
 	<item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera"/>
 	<item component="ComponentInfo{com.google.android.camera/com.android.camera.Camera}" drawable="camera"/>
@@ -2195,6 +2198,8 @@
 	<item component="ComponentInfo{jp.co.sega.vtcf/jp.co.sega.vtcf.DownloadManager}" drawable="virtuatennis"/>
 	<!-- Visa -->
 	<item component="ComponentInfo{ru.mw/ru.mw.Main}" drawable="visa"/>
+	<!-- Vine -->
+	<item component="ComponentInfo{co.vine.android/co.vine.android.StartActivity}" drawable="vine"/>
 	<!-- Vodafone SDM Agent -->
 	<item component="ComponentInfo{com.vodafone.androidagent/com.airwatch.agent.ui.activity.SplashActivity}" drawable="vodafone"/>
 	<!-- Voice Dialer -->

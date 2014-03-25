@@ -35,8 +35,8 @@ import android.os.Handler;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
-import co.w44.gho5t.AboutDev;
-import co.w44.gho5t.R;
+import co.w44.solariz3d.AboutDev;
+import co.w44.solariz3d.R;
 import com.google.analytics.tracking.android.EasyTracker;
 
 import com.actionbarsherlock.app.SherlockFragmentActivity;
@@ -44,7 +44,7 @@ import com.actionbarsherlock.view.Menu;
 import com.actionbarsherlock.view.MenuInflater;
 import com.actionbarsherlock.view.MenuItem;
 
-public class Gho5t extends SherlockFragmentActivity {
+public class Solariz3d extends SherlockFragmentActivity {
 	
 	private SharedPreferences prefs;
 	private GlassActionBarHelper helper;
@@ -100,7 +100,7 @@ public class Gho5t extends SherlockFragmentActivity {
 	
 	public Dialog getChangelog()
 	 {
-	 	final Dialog CDialog = new Dialog(Gho5t.this);
+	 	final Dialog CDialog = new Dialog(Solariz3d.this);
 	 	CDialog.setTitle(getResources().getString(R.string.changelog_title));
 	 	CDialog.setContentView(R.layout.changelog);
 	 	CDialog.setCanceledOnTouchOutside(true);
@@ -143,7 +143,7 @@ public class Gho5t extends SherlockFragmentActivity {
                 break;
             case R.id.rateButton:
             	Intent rate = new Intent(Intent.ACTION_VIEW).setData(Uri.parse
-            			("market://details?id=co.w44.gho5t"));
+            			("market://details?id=co.w44.solariz3d"));
             	startActivity(rate);
                 break;
             case R.id.emailButton:
@@ -155,7 +155,7 @@ public class Gho5t extends SherlockFragmentActivity {
 				
                 break;
             case R.id.aboutButton:
-				Intent about = new Intent(Gho5t.this, AboutDev.class);
+				Intent about = new Intent(Solariz3d.this, AboutDev.class);
 				startActivity(about);
                 break;
             case R.id.donateButton:

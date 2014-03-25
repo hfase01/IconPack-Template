@@ -21,7 +21,7 @@ import helper.ScrollGridView;
 import java.util.ArrayList;
 import java.util.List;
 
-import co.w44.gho5t.R;
+import co.w44.solariz3d.R;
 import adapters.NewIconsAdapter;
 import adapters.NewIconsAdapter.NewIconName;
 import android.animation.Animator;

@@ -23,7 +23,7 @@
     android:layout_height="wrap_content"
     android:orientation="vertical"
     android:gravity="center" 
-    tools:context="gridview.Gho5t">
+    tools:context="gridview.Solariz3d">
     
     <!-- Change line 31 "@drawable/card_bg_pressed_inverted" -->
 	<RelativeLayout
